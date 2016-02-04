@@ -1,0 +1,59 @@
+Report for Institution Code CHAS, Resource chas_eggsnest
+Usage stats for January 2016, generated on 2016/02/04
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 16
+Number of records retrieved in searches: 116
+Number of different countries where searches have been originated: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 11
+	Country: Unknown ; Times: 1
+	Country: Russia ; Times: 3
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-01-30 ; Times: 1
+	Date: 2016-01-20 ; Times: 1
+	Date: 2016-01-24 ; Times: 1
+	Date: 2016-01-25 ; Times: 2
+	Date: 2016-01-28 ; Times: 1
+	Date: 2016-01-08 ; Times: 1
+	Date: 2016-01-18 ; Times: 6
+	Date: 2016-01-12 ; Times: 1
+	Date: 2016-01-15 ; Times: 1
+	Date: 2016-01-14 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Accipiter Arizona" ; Times: 2
+	Query: "elf" ; Times: 6
+	Query: "chas 4943" ; Times: 1
+	Query: "gbifdatasetid:fda9a8f8-6342-4f73-8c3b-8b79e62afc9d" ; Times: 1
+	Query: "&#34;Buteo lineatus&#34; and &#34;Mexico&#34;" ; Times: 1
+	Query: "eggs Falcipennis" ; Times: 1
+	Query: "egg Falcipennis" ; Times: 2
+	Query: "eggs minnesota bird" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 3 (out of 507 download events in this period)
+Total number of records downloaded: 20
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 2
+	Country: Netherlands ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-01-22 ; Times: 1
+	Date: 2016-01-20 ; Times: 1
+	Date: 2016-01-21 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "aechmophorus" ; Times: 1
+	Query: "Alberta" ; Times: 1
+	Query: "charadrius nivosus" ; Times: 1
+
+
+End of report.
