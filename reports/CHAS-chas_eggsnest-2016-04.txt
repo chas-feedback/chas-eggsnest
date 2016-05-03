@@ -1,0 +1,98 @@
+Report for Institution Code CHAS, Resource chas_eggsnest
+Usage stats for April 2016, generated on 2016/05/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 62
+Number of records retrieved in searches: 197
+Number of different countries where searches have been originated: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 22
+	Country: United States ; Times: 20
+	Country: Germany ; Times: 1
+	Country: Russia ; Times: 18
+	Country: Unknown ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-04-29 ; Times: 1
+	Date: 2016-04-28 ; Times: 3
+	Date: 2016-04-07 ; Times: 1
+	Date: 2016-04-06 ; Times: 2
+	Date: 2016-04-05 ; Times: 1
+	Date: 2016-04-04 ; Times: 2
+	Date: 2016-04-21 ; Times: 1
+	Date: 2016-04-20 ; Times: 1
+	Date: 2016-04-09 ; Times: 3
+	Date: 2016-04-08 ; Times: 1
+	Date: 2016-04-25 ; Times: 1
+	Date: 2016-04-27 ; Times: 9
+	Date: 2016-04-26 ; Times: 3
+	Date: 2016-04-22 ; Times: 1
+	Date: 2016-04-18 ; Times: 5
+	Date: 2016-04-14 ; Times: 5
+	Date: 2016-04-15 ; Times: 1
+	Date: 2016-04-17 ; Times: 1
+	Date: 2016-04-11 ; Times: 2
+	Date: 2016-04-12 ; Times: 2
+	Date: 2016-04-13 ; Times: 15
+	Date: 2016-04-03 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Sturnella magna Ontario" ; Times: 10
+	Query: "passenger pigeon" ; Times: 3
+	Query: "Blue-headed Quail-Dove" ; Times: 1
+	Query: "specificepithet:ruficollis class:aves stateprovince:&#34;alaska&#34; country:&#34;united states&#34; year &gt;= 1933 year &lt;= 1933" ; Times: 1
+	Query: "Agelaius phoeniceus Florida nassau County egg" ; Times: 1
+	Query: "1900 Jackson" ; Times: 1
+	Query: "starnoenas" ; Times: 1
+	Query: "ectopistes migratorius" ; Times: 1
+	Query: "elf" ; Times: 20
+	Query: "gbifdatasetid:fda9a8f8-6342-4f73-8c3b-8b79e62afc9d" ; Times: 1
+	Query: "Agelaius phoeniceus Florida Dade County" ; Times: 1
+	Query: "Starnoenas cyanocephala" ; Times: 2
+	Query: "class:aves stateprovince:&#34;alaska&#34; country:&#34;united states&#34; recordedby:tevuk year &gt;= 1933 year &lt;= 1933" ; Times: 1
+	Query: "type:specimen genus:Starnoenas" ; Times: 1
+	Query: "type:specimen class:Aves county:&#34;genesee&#34; stateprovince:&#34;New York&#34;" ; Times: 1
+	Query: "aimophila ruficeps kerr texas" ; Times: 1
+	Query: "Pelecanus erythrorhynchos stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "Agelaius phoeniceus Florida nassau County" ; Times: 1
+	Query: "Riparia riparia Ontario" ; Times: 10
+	Query: "Great auk" ; Times: 2
+	Query: "Starnoenas" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 14 (out of 1312 download events in this period)
+Total number of records downloaded: 70
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 13
+	Country: Brazil ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-04-03 ; Times: 2
+	Date: 2016-04-07 ; Times: 1
+	Date: 2016-04-15 ; Times: 2
+	Date: 2016-04-21 ; Times: 1
+	Date: 2016-04-20 ; Times: 1
+	Date: 2016-04-09 ; Times: 1
+	Date: 2016-04-11 ; Times: 5
+	Date: 2016-04-27 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "county:&#34;Los Angeles&#34; stateprovince:&#34;California&#34; (Campylorhynchus)" ; Times: 1
+	Query: "Dolichonyx oryzivorus" ; Times: 1
+	Query: "Egretta rufescens stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "Pileated Woodpecker" ; Times: 2
+	Query: "type:specimen class:Aves county:&#34;genesee&#34; stateprovince:&#34;New York&#34;" ; Times: 3
+	Query: "specificepithet:satrapa genus:regulus month &gt;= 5 month &lt;= 5" ; Times: 1
+	Query: "type:specimen class:Aves county:&#34;Cayuga&#34; stateprovince:&#34;New York&#34;" ; Times: 1
+	Query: "Pelecanus erythrorhynchos stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "sialia sialis" ; Times: 1
+	Query: "class:Aves stateprovince:&#34;New York&#34;" ; Times: 1
+	Query: "Sturnus vulgaris" ; Times: 1
+
+
+End of report.
