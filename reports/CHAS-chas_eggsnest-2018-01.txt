@@ -1,0 +1,154 @@
+Report for Institution Code CHAS, Resource chas_eggsnest
+Usage stats for January 2018, generated on 2018/10/09
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 76
+Number of records retrieved in searches: 262
+Number of different countries where searches have been originated: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 2
+	Country: Mexico ; Times: 47
+	Country: Singapore ; Times: 1
+	Country: Luxembourg ; Times: 1
+	Country: United States ; Times: 23
+	Country: Russia ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-01-19 ; Times: 3
+	Date: 2018-01-18 ; Times: 1
+	Date: 2018-01-08 ; Times: 1
+	Date: 2018-01-09 ; Times: 2
+	Date: 2018-01-28 ; Times: 1
+	Date: 2018-01-02 ; Times: 1
+	Date: 2018-01-10 ; Times: 1
+	Date: 2018-01-13 ; Times: 1
+	Date: 2018-01-01 ; Times: 1
+	Date: 2018-01-15 ; Times: 8
+	Date: 2018-01-21 ; Times: 1
+	Date: 2018-01-22 ; Times: 3
+	Date: 2018-01-07 ; Times: 1
+	Date: 2018-01-25 ; Times: 2
+	Date: 2018-01-31 ; Times: 4
+	Date: 2018-01-16 ; Times: 41
+	Date: 2018-01-26 ; Times: 1
+	Date: 2018-01-23 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:fedoa genus:limosa institutioncode:CHAS" ; Times: 1
+	Query: "Passenger Pigeon" ; Times: 4
+	Query: "vntype:specimen stateprovince:&#34;Ohio&#34; (song sparrow) basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Crex Crex" ; Times: 2
+	Query: "Accipiter cooperii" ; Times: 1
+	Query: "Mycteria americana" ; Times: 1
+	Query: "Sternula antillarum" ; Times: 1
+	Query: "Ixobrychus exilis" ; Times: 1
+	Query: "Thalasseus maximus" ; Times: 1
+	Query: "catalognumber:1290" ; Times: 1
+	Query: "specificepithet:cristata genus:Cyanocitta stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Caracara plancus" ; Times: 1
+	Query: "Ortalis vetula" ; Times: 1
+	Query: "bird size" ; Times: 1
+	Query: "Ixobrychus exilis minnesota egg" ; Times: 1
+	Query: "Caracara cheriway" ; Times: 1
+	Query: "Anas discors" ; Times: 1
+	Query: "V-1689" ; Times: 1
+	Query: "Contopus virens" ; Times: 1
+	Query: "Tyrannus forficatus" ; Times: 1
+	Query: "Hylocichla mustelina" ; Times: 1
+	Query: "Tyrannus savana" ; Times: 1
+	Query: "Phalaropus tricolor" ; Times: 1
+	Query: "Numenius americanus" ; Times: 1
+	Query: "elf" ; Times: 1
+	Query: "Bubo virginianus egg texas" ; Times: 2
+	Query: "Jacana spinosa" ; Times: 1
+	Query: "Ictinia mississippiensis" ; Times: 1
+	Query: "Buteo swainsoni nest" ; Times: 1
+	Query: "Protonotaria citrea" ; Times: 1
+	Query: "Botaurus lentiginosus" ; Times: 1
+	Query: "megascops asio" ; Times: 1
+	Query: "specificepithet:asio genus:Megascops mappable:1" ; Times: 1
+	Query: "Nyctanassa violacea" ; Times: 1
+	Query: "Molothrus oryzivorus" ; Times: 1
+	Query: "passenger pigeon" ; Times: 1
+	Query: "passenger pigeon egg" ; Times: 1
+	Query: "bittern" ; Times: 1
+	Query: "Patagioenas flavirostris" ; Times: 1
+	Query: "oak titmouse" ; Times: 2
+	Query: "Coccyzus americanus" ; Times: 1
+	Query: "Passerina cyanea" ; Times: 1
+	Query: "Aramus guarauna" ; Times: 1
+	Query: "Petrochelidon pyrrhonota" ; Times: 1
+	Query: "(&#34;14C&#34;)" ; Times: 1
+	Query: "Gallinula galeata" ; Times: 1
+	Query: "Actitis macularius" ; Times: 1
+	Query: "Eudocimus  albus" ; Times: 1
+	Query: "Rynchops niger" ; Times: 1
+	Query: "Nycticorax nycticorax" ; Times: 1
+	Query: "Tyrannus couchii" ; Times: 1
+	Query: "vntype:specimen institutioncode:CHAS" ; Times: 1
+	Query: "Buteo albonotatus" ; Times: 1
+	Query: "Pelecanus erythrorhynchos" ; Times: 1
+	Query: "Bartramia longicauda" ; Times: 1
+	Query: "Egretta tricolor" ; Times: 1
+	Query: "Circus cyaneus" ; Times: 1
+	Query: "Thalasseus sandvicensis" ; Times: 1
+	Query: "atlantic puffin" ; Times: 1
+	Query: "Limnothlypis swainsonii" ; Times: 1
+	Query: "gallus gallus vntype:specimen class:aves NOT (domesticus) year &lt;= 1930" ; Times: 1
+	Query: "Helmitheros vermivorum" ; Times: 1
+	Query: "Fregata magnificens" ; Times: 1
+	Query: "Falco femoralis" ; Times: 1
+	Query: "Buteogallus anthracinus" ; Times: 1
+	Query: "Sturnella magna" ; Times: 1
+	Query: "numenius borealis" ; Times: 1
+	Query: "Platalea ajaja" ; Times: 1
+	Query: "Rostrhamus sociabilis" ; Times: 1
+	Query: "Myiarchus crinitus" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 16 (out of 1398 download events in this period)
+Total number of records downloaded: 238
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 12
+	Country: Brazil ; Times: 1
+	Country: Mexico ; Times: 1
+	Country: Germany ; Times: 1
+	Country: Singapore ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-01-19 ; Times: 1
+	Date: 2018-01-08 ; Times: 1
+	Date: 2018-01-09 ; Times: 1
+	Date: 2018-01-28 ; Times: 1
+	Date: 2018-01-29 ; Times: 1
+	Date: 2018-01-25 ; Times: 4
+	Date: 2018-01-26 ; Times: 1
+	Date: 2018-01-12 ; Times: 1
+	Date: 2018-01-15 ; Times: 1
+	Date: 2018-01-22 ; Times: 2
+	Date: 2018-01-23 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:melodia genus:melospiza year &gt;= 1901 year &lt;= 1904 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "northern mockingbird vntype:specimen" ; Times: 1
+	Query: "genus:Perisoreus" ; Times: 1
+	Query: "Charadrius melodus" ; Times: 1
+	Query: "Nucifraga" ; Times: 1
+	Query: "gallus gallus vntype:specimen class:aves NOT (domesticus) year &lt;= 1930" ; Times: 1
+	Query: "specificepithet:melodia genus:melospiza basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "caracara cheriway" ; Times: 1
+	Query: "vntype:specimen class:Aves country:&#34;United States&#34;" ; Times: 2
+	Query: "Accipiter" ; Times: 1
+	Query: "Buteo swainsoni nest" ; Times: 1
+	Query: "Rynchops niger" ; Times: 1
+	Query: "vntype:specimen class:Aves stateprovince:&#34;Minnesota&#34;" ; Times: 1
+	Query: "specificepithet:asio genus:Megascops mappable:1" ; Times: 1
+	Query: "Melanerpes carolinus" ; Times: 1
+
+
+End of report.
