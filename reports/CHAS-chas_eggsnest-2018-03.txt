@@ -1,0 +1,135 @@
+Report for Institution Code CHAS, Resource chas_eggsnest
+Usage stats for March 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 90
+Number of records retrieved in searches: 720
+Number of different countries where searches have been originated: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 3
+	Country: Brazil ; Times: 2
+	Country: Unknown ; Times: 2
+	Country: France ; Times: 1
+	Country: United States ; Times: 78
+	Country: China ; Times: 2
+	Country: Kazakhstan ; Times: 1
+	Country: Russia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-03-07 ; Times: 2
+	Date: 2018-03-06 ; Times: 3
+	Date: 2018-03-16 ; Times: 10
+	Date: 2018-03-29 ; Times: 1
+	Date: 2018-03-12 ; Times: 3
+	Date: 2018-03-01 ; Times: 2
+	Date: 2018-03-02 ; Times: 3
+	Date: 2018-03-03 ; Times: 3
+	Date: 2018-03-13 ; Times: 4
+	Date: 2018-03-05 ; Times: 3
+	Date: 2018-03-28 ; Times: 5
+	Date: 2018-03-10 ; Times: 1
+	Date: 2018-03-08 ; Times: 1
+	Date: 2018-03-27 ; Times: 14
+	Date: 2018-03-24 ; Times: 1
+	Date: 2018-03-18 ; Times: 1
+	Date: 2018-03-26 ; Times: 22
+	Date: 2018-03-23 ; Times: 2
+	Date: 2018-03-20 ; Times: 4
+	Date: 2018-03-21 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Haematopus specificepithet:ostralegus" ; Times: 2
+	Query: "elf" ; Times: 4
+	Query: "egg vntype:specimen class:aves" ; Times: 1
+	Query: "spider" ; Times: 1
+	Query: "genus:Circus specificepithet:cyaneus" ; Times: 4
+	Query: "Lined Snake" ; Times: 1
+	Query: "genus:Diomedea specificepithet:exulans" ; Times: 2
+	Query: "recordedby:Smith year &gt;= 1901 year &lt;= 1901" ; Times: 1
+	Query: "genus:Scolopax specificepithet:rusticola" ; Times: 5
+	Query: "order:Rheiformes" ; Times: 1
+	Query: "class:Aves recordedby:Abbott" ; Times: 1
+	Query: "Passenger pigeon" ; Times: 2
+	Query: "egg vntype:specimen preparations:egg basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:Ortalis specificepithet:vetula " ; Times: 3
+	Query: "class:Aves recordedby:Abbott year &gt;= 1904 year &lt;= 1904" ; Times: 2
+	Query: "genus:Falcipennis specificepithet:canadensis" ; Times: 2
+	Query: "order:Casuariiformes" ; Times: 1
+	Query: "vntype:specimen family: Caprimulgidae (WS)" ; Times: 1
+	Query: "genus:Gallus specificepithet:gallus" ; Times: 3
+	Query: "eastern screech-owl minnesota" ; Times: 1
+	Query: "toxostoma rufum" ; Times: 1
+	Query: "passenger pigeon" ; Times: 5
+	Query: "genus:Anas specificepithet:discors" ; Times: 6
+	Query: "preparations:egg" ; Times: 3
+	Query: "bird mass" ; Times: 2
+	Query: "genus:Alca specificepithet:torda" ; Times: 2
+	Query: "passenger pigeon basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:Fregata specificepithet:magnificens" ; Times: 2
+	Query: "genus:Colaptes specificepithet:auratus" ; Times: 1
+	Query: "genus:Phoenicopterus specificepithet:ruber" ; Times: 5
+	Query: "genus:Sula specificepithet:dactylatra" ; Times: 2
+	Query: "genus:Phalacrocorax specificepithet:carbo" ; Times: 2
+	Query: "genus:Buteo specificepithet:buteo" ; Times: 2
+	Query: "genus:Struthio specificepithet:camelus" ; Times: 5
+	Query: "egg vntype:specimen class:aves preparations:egg basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:Coturnix specificepithet:coturnix" ; Times: 2
+	Query: "gbifdatasetid:fda9a8f8-6342-4f73-8c3b-8b79e62afc9d" ; Times: 3
+	Query: "Megascops asio minnesota" ; Times: 1
+	Query: "genus:Limosa specificepithet:lapponica" ; Times: 2
+	Query: "recordedby:Smith year &gt;= 1901 year &lt;= 1901 month &gt;= 5 month &lt;= 5" ; Times: 1
+	Query: "genus:Colaptes" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 23 (out of 1284 download events in this period)
+Total number of records downloaded: 537
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 17
+	Country: Canada ; Times: 2
+	Country: Brazil ; Times: 1
+	Country: Mexico ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-03-10 ; Times: 4
+	Date: 2018-03-01 ; Times: 1
+	Date: 2018-03-02 ; Times: 4
+	Date: 2018-03-13 ; Times: 1
+	Date: 2018-03-12 ; Times: 1
+	Date: 2018-03-06 ; Times: 1
+	Date: 2018-03-07 ; Times: 1
+	Date: 2018-03-26 ; Times: 2
+	Date: 2018-03-27 ; Times: 2
+	Date: 2018-03-18 ; Times: 1
+	Date: 2018-03-30 ; Times: 1
+	Date: 2018-03-20 ; Times: 2
+	Date: 2018-03-21 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Cygnus olor" ; Times: 1
+	Query: "Cygnus cygnus" ; Times: 1
+	Query: "Egretta rufescens" ; Times: 1
+	Query: "egg vntype:specimen class:aves preparations:egg basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "ectopistes migratorius" ; Times: 1
+	Query: "Buteo albonotatus" ; Times: 1
+	Query: "preparations:egg" ; Times: 1
+	Query: "vntype:specimen specificepithet:americana genus:Grus" ; Times: 3
+	Query: "Grus americana" ; Times: 1
+	Query: "Athene cunicularia" ; Times: 1
+	Query: "Megascops asio minnesota" ; Times: 1
+	Query: "class:Aves 2014 specimen" ; Times: 1
+	Query: "class:Aves 2000 specimen" ; Times: 1
+	Query: "Alder Flycatcher" ; Times: 1
+	Query: "FISH stateprovince:&#34;michigan&#34;" ; Times: 2
+	Query: "aphelocoma woodhouseii" ; Times: 1
+	Query: "Pyrocephalus rubinus" ; Times: 1
+	Query: "specificepithet:bicolor genus:tachycineta hasmass:1" ; Times: 1
+	Query: "painted bunting" ; Times: 1
+	Query: "preparations:nest" ; Times: 1
+
+
+End of report.
