@@ -1,0 +1,153 @@
+Report for Institution Code CHAS, Resource chas_eggsnest
+Usage stats for February 2018, generated on 2018/10/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 66
+Number of records retrieved in searches: 423
+Number of different countries where searches have been originated: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 14
+	Country: United States ; Times: 43
+	Country: Italy ; Times: 1
+	Country: Unknown ; Times: 2
+	Country: France ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: Brazil ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-02-14 ; Times: 4
+	Date: 2018-02-15 ; Times: 1
+	Date: 2018-02-16 ; Times: 1
+	Date: 2018-02-17 ; Times: 1
+	Date: 2018-02-10 ; Times: 1
+	Date: 2018-02-11 ; Times: 9
+	Date: 2018-02-12 ; Times: 1
+	Date: 2018-02-13 ; Times: 5
+	Date: 2018-02-28 ; Times: 3
+	Date: 2018-02-26 ; Times: 8
+	Date: 2018-02-18 ; Times: 1
+	Date: 2018-02-19 ; Times: 9
+	Date: 2018-02-04 ; Times: 1
+	Date: 2018-02-09 ; Times: 3
+	Date: 2018-02-22 ; Times: 1
+	Date: 2018-02-25 ; Times: 4
+	Date: 2018-02-01 ; Times: 1
+	Date: 2018-02-27 ; Times: 2
+	Date: 2018-02-20 ; Times: 1
+	Date: 2018-02-05 ; Times: 6
+	Date: 2018-02-21 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "Passenger Pigeon" ; Times: 12
+	Query: "class:Aves recordedby:*Cory*" ; Times: 2
+	Query: "texas natural history collection" ; Times: 2
+	Query: "specificepithet:hypoleucus genus:Synthliboramphus stateprovince:&#34;Baja California&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:albus genus:Eudocimus county:&#34;monroe&#34; stateprovince:&#34;Florida&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "institutioncode:CHAS" ; Times: 1
+	Query: "class:Aves stateprovince:&#34;South Carolina&#34; year &gt;= 2010 year &lt;= 2017 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Bar-tailed Godwit" ; Times: 1
+	Query: "Passenger pigeon" ; Times: 11
+	Query: "ash -throated flycatcher" ; Times: 1
+	Query: "class:aves stateprovince:&#34;south carolina&#34; year &gt;= 2007 year &lt;= 2017" ; Times: 2
+	Query: "elf" ; Times: 2
+	Query: "class:Aves stateprovince:&#34;South Carolina&#34; year &gt;= 2007 year &lt;= 2017 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "lined snake illinois" ; Times: 1
+	Query: "class:Aves stateprovince:&#34;South Carolina&#34; year &gt;= 2015 year &lt;= 2017 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Melanerpes carolinus vntype:specimen (Melanerpes carolinus) institutioncode:CHAS" ; Times: 2
+	Query: "bobolink" ; Times: 2
+	Query: "passenger pigeon" ; Times: 5
+	Query: "Philetairus socius" ; Times: 1
+	Query: "michigan" ; Times: 1
+	Query: "specificepithet:asio genus:Megascops" ; Times: 1
+	Query: "class:aves recordedby:*cory year &gt;= 1850 year &lt;= 1950" ; Times: 2
+	Query: "locality:hyde stateprovince:&#34;illinois&#34;" ; Times: 1
+	Query: "specificepithet:verticalis genus:Tyrannus stateprovince:&#34;Kansas&#34; year &gt;= 1800 year &lt;= 1950" ; Times: 1
+	Query: "Oceanodroma leucorhoa socorroensis" ; Times: 1
+	Query: "specificepithet:cyanea genus:Passerina year &gt;= 1898 year &lt;= 1898" ; Times: 1
+	Query: "atlantic puffin" ; Times: 2
+	Query: "harrier" ; Times: 1
+	Query: "gbifdatasetid:fda9a8f8-6342-4f73-8c3b-8b79e62afc9d" ; Times: 1
+	Query: "Columba livia egg" ; Times: 1
+	Query: "dolichonyx oryzivorus" ; Times: 2
+	Query: "locality:Laguna county:&#34;Sonoma&#34; stateprovince:&#34;California&#34; country:&#34;United States&#34; year &lt;= 1950" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 54 (out of 1892 download events in this period)
+Total number of records downloaded: 477
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 52
+	Country: Canada ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-02-14 ; Times: 2
+	Date: 2018-02-15 ; Times: 1
+	Date: 2018-02-22 ; Times: 1
+	Date: 2018-02-11 ; Times: 2
+	Date: 2018-02-27 ; Times: 1
+	Date: 2018-02-13 ; Times: 1
+	Date: 2018-02-28 ; Times: 2
+	Date: 2018-02-26 ; Times: 2
+	Date: 2018-02-06 ; Times: 2
+	Date: 2018-02-09 ; Times: 2
+	Date: 2018-02-08 ; Times: 4
+	Date: 2018-02-02 ; Times: 11
+	Date: 2018-02-07 ; Times: 2
+	Date: 2018-02-20 ; Times: 5
+	Date: 2018-02-05 ; Times: 15
+	Date: 2018-02-21 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:mexicanus genus:Carpodacus continent:North America" ; Times: 1
+	Query: "specificepithet:cassinii genus:Carpodacus" ; Times: 1
+	Query: "specificepithet:galbula genus:Icterus" ; Times: 1
+	Query: "vntype:specimen specificepithet:albus genus:Eudocimus county:&#34;monroe&#34; stateprovince:&#34;Florida&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "specificepithet:melodia genus:melospiza" ; Times: 3
+	Query: "specificepithet:cunicularia genus:Athene" ; Times: 1
+	Query: "specificepithet:alba genus:Tyto" ; Times: 1
+	Query: "Athene cunicularia" ; Times: 1
+	Query: "Window" ; Times: 1
+	Query: "michigan" ; Times: 1
+	Query: "specificepithet:atra genus:Fulica" ; Times: 1
+	Query: "specificepithet:macroura genus:zenaida" ; Times: 1
+	Query: "Empidonax alnorum" ; Times: 1
+	Query: "specificepithet:minor genus:Chordeiles" ; Times: 1
+	Query: "specificepithet:melodia genus:Melospiza" ; Times: 3
+	Query: "Podilymbus podiceps basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:belli genus:Amphispiza" ; Times: 2
+	Query: "vntype:specimen specificepithet:albus genus:Eudocimus stateprovince:&#34;Florida&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "specificepithet:coerulescens genus:Aphelocoma continent:North America" ; Times: 2
+	Query: "window" ; Times: 1
+	Query: "specificepithet:sinuatus genus:Cardinalis" ; Times: 1
+	Query: "specificepithet:georgiana genus:melospiza" ; Times: 1
+	Query: "specificepithet:livia genus:Columba" ; Times: 1
+	Query: "specificepithet:melodia morphna genus:melospiza" ; Times: 1
+	Query: "specificepithet:livia genus:Columba continent:North America" ; Times: 1
+	Query: "Ammodramus henslowii" ; Times: 1
+	Query: "specificepithet:nuttalli genus:Pica continent:North America" ; Times: 1
+	Query: "&#34;corvus corax&#34;" ; Times: 1
+	Query: "specificepithet:coturnix genus:Coturnix" ; Times: 1
+	Query: "locality:Santa Rosa county:&#34;Sonoma&#34; stateprovince:&#34;California&#34; year &lt;= 1950" ; Times: 1
+	Query: "window class:Aves" ; Times: 2
+	Query: "specificepithet:corax genus:Corvus basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:inca genus:Columbina continent:North America" ; Times: 1
+	Query: "specificepithet:virginianus genus:Bubo" ; Times: 1
+	Query: "specificepithet:asio genus:Megascops" ; Times: 1
+	Query: "specificepithet:vociferus genus:Caprimulgus" ; Times: 1
+	Query: "specificepithet:bicolor genus:Tachycineta hasmass:1" ; Times: 1
+	Query: "specificepithet:purpureus genus:Carpodacus" ; Times: 1
+	Query: "Melanerpes carolinus" ; Times: 1
+	Query: "specificepithet:gambelii genus:Callipepla continent:North America" ; Times: 2
+	Query: "specificepithet:stelleri genus:Cyanocitta continent:North America" ; Times: 1
+	Query: "specificepithet:lincolnii genus:melospiza" ; Times: 1
+	Query: "locality:Laguna county:&#34;Sonoma&#34; stateprovince:&#34;California&#34; country:&#34;United States&#34; year &lt;= 1950" ; Times: 1
+	Query: "specificepithet:cardinalis genus:Cardinalis" ; Times: 1
+	Query: "specificepithet:bullockii genus:Icterus" ; Times: 1
+	Query: "specificepithet:lecontei genus:Toxostoma" ; Times: 1
+
+
+End of report.
