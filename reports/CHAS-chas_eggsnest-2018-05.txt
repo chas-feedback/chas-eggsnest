@@ -1,0 +1,87 @@
+Report for Institution Code CHAS, Resource chas_eggsnest
+Usage stats for May 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 23
+Number of records retrieved in searches: 81
+Number of different countries where searches have been originated: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United Kingdom ; Times: 2
+	Country: United States ; Times: 18
+	Country: Unknown ; Times: 1
+	Country: Colombia ; Times: 1
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-05-06 ; Times: 2
+	Date: 2018-05-04 ; Times: 2
+	Date: 2018-05-05 ; Times: 2
+	Date: 2018-05-11 ; Times: 1
+	Date: 2018-05-13 ; Times: 1
+	Date: 2018-05-12 ; Times: 1
+	Date: 2018-05-19 ; Times: 1
+	Date: 2018-05-17 ; Times: 2
+	Date: 2018-05-09 ; Times: 2
+	Date: 2018-05-18 ; Times: 2
+	Date: 2018-05-29 ; Times: 3
+	Date: 2018-05-20 ; Times: 1
+	Date: 2018-05-21 ; Times: 1
+	Date: 2018-05-24 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Passenger pigeon" ; Times: 1
+	Query: "specificepithet:Flavipes genus:Tringa class:Aves year &gt;= 1990 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "egg Actitis macularius 1800" ; Times: 1
+	Query: "specificepithet:flavipes genus:tringa year &gt;= 1990 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "american crow" ; Times: 1
+	Query: "Long-billed Dowitcher" ; Times: 1
+	Query: "great crested flycatcher" ; Times: 1
+	Query: "elf" ; Times: 2
+	Query: "spider" ; Times: 1
+	Query: "egg c.d. brower point barrow" ; Times: 1
+	Query: "&#34;American robin&#34; vntype:specimen specificepithet:migratorius genus:Turdus" ; Times: 1
+	Query: "specificepithet:ruber genus:phoenicopterus preparations:Egg" ; Times: 1
+	Query: "Actitis macularius" ; Times: 1
+	Query: "&#34;American robin&#34; vntype:specimen" ; Times: 1
+	Query: "specificepithet:atricristatus genus:Baeolophus" ; Times: 1
+	Query: "institutioncode:CHAS" ; Times: 1
+	Query: "anas discors" ; Times: 1
+	Query: "specificepithet:marila genus:Aythya collectioncode:eggs" ; Times: 1
+	Query: "specificepithet:kennicottii institutioncode:CHAS" ; Times: 1
+	Query: "buteo jamaicensis borealis" ; Times: 2
+	Query: "specificepithet:rufivirgatus genus:Arremonops" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 10 (out of 1178 download events in this period)
+Total number of records downloaded: 46
+Number of different countries: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 10
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-05-16 ; Times: 1
+	Date: 2018-05-02 ; Times: 1
+	Date: 2018-05-09 ; Times: 2
+	Date: 2018-05-29 ; Times: 2
+	Date: 2018-05-20 ; Times: 1
+	Date: 2018-05-25 ; Times: 2
+	Date: 2018-05-30 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "recordedby:Palsson collectioncode:eggs" ; Times: 1
+	Query: "specificepithet:anna genus:Calypte" ; Times: 1
+	Query: "specificepithet:anna genus:Calypte preparations:Nest" ; Times: 1
+	Query: "specificepithet:ossifragus genus:Corvus year &gt;= 1800 year &lt;= 1980 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "&#34;American robin&#34; vntype:specimen specificepithet:migratorius genus:Turdus" ; Times: 1
+	Query: "class:Aves recordedby:Palsson collectioncode:eggs" ; Times: 1
+	Query: "pileated woodpecker" ; Times: 1
+	Query: "Columbina passerina" ; Times: 1
+	Query: "specificepithet:mollissima genus:Somateria" ; Times: 1
+	Query: "gulf of california class:aves year &lt;= 1960" ; Times: 1
+
+
+End of report.
