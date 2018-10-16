@@ -1,0 +1,131 @@
+Report for Institution Code CHAS, Resource chas_eggsnest
+Usage stats for April 2018, generated on 2018/10/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 54
+Number of records retrieved in searches: 450
+Number of different countries where searches have been originated: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 2
+	Country: Brazil ; Times: 1
+	Country: Australia ; Times: 3
+	Country: Unknown ; Times: 3
+	Country: United States ; Times: 42
+	Country: China ; Times: 2
+	Country: Russia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-04-01 ; Times: 1
+	Date: 2018-04-03 ; Times: 2
+	Date: 2018-04-02 ; Times: 1
+	Date: 2018-04-05 ; Times: 5
+	Date: 2018-04-04 ; Times: 1
+	Date: 2018-04-07 ; Times: 2
+	Date: 2018-04-06 ; Times: 3
+	Date: 2018-04-09 ; Times: 10
+	Date: 2018-04-08 ; Times: 4
+	Date: 2018-04-19 ; Times: 2
+	Date: 2018-04-16 ; Times: 4
+	Date: 2018-04-11 ; Times: 2
+	Date: 2018-04-22 ; Times: 1
+	Date: 2018-04-30 ; Times: 4
+	Date: 2018-04-20 ; Times: 3
+	Date: 2018-04-27 ; Times: 3
+	Date: 2018-04-26 ; Times: 1
+	Date: 2018-04-25 ; Times: 2
+	Date: 2018-04-24 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "tree swallows" ; Times: 3
+	Query: "Passenger Pigeon" ; Times: 5
+	Query: "specificepithet:scandiacus class:aves stateprovince:&#34;alaska&#34; year &gt;= 1928 year &lt;= 1932" ; Times: 1
+	Query: "indigo" ; Times: 1
+	Query: "disaster" ; Times: 1
+	Query: "red-tailed hawk" ; Times: 1
+	Query: "elf" ; Times: 3
+	Query: "CHAS" ; Times: 1
+	Query: "cistothorus palustris" ; Times: 1
+	Query: "genus:Tachycineta bicolor stateprovince:&#34;Illinois&#34;" ; Times: 1
+	Query: "indigo bunting" ; Times: 3
+	Query: "genus:bubo class:aves stateprovince:&#34;alaska&#34; year &gt;= 1928 year &lt;= 1932" ; Times: 1
+	Query: "Megascops asio" ; Times: 1
+	Query: "specificepithet:adamsii class:aves stateprovince:&#34;alaska&#34; year &gt;= 1928 year &lt;= 1932" ; Times: 1
+	Query: "genus:tachycineta bicolor stateprovince:&#34;illinois&#34; institutioncode:CHAS" ; Times: 1
+	Query: "specificepithet:sabini class:aves stateprovince:&#34;alaska&#34; year &gt;= 1931 year &lt;= 1931" ; Times: 1
+	Query: "specificepithet:discors genus:anas" ; Times: 1
+	Query: "passenger pigeon" ; Times: 1
+	Query: "eskimo curlew" ; Times: 5
+	Query: "colinus stateprovince:&#34;massachusetts&#34; NOT (skeleton)" ; Times: 3
+	Query: "colinus stateprovince:&#34;massachusetts&#34;" ; Times: 3
+	Query: "chicago academy of sciences" ; Times: 1
+	Query: "vntype:specimen genus:Tachycineta bicolor stateprovince:&#34;Illinois&#34;" ; Times: 1
+	Query: "specificepithet:pomarinus class:aves stateprovince:&#34;alaska&#34; year &gt;= 1932 year &lt;= 1932" ; Times: 1
+	Query: "genus:tachycineta bicolor stateprovince:&#34;illinois&#34;" ; Times: 1
+	Query: "genus:gavia class:aves stateprovince:&#34;alaska&#34; year &gt;= 1935 year &lt;= 1935" ; Times: 1
+	Query: "specificepithet:ustulatus genus:Catharus class:Aves stateprovince:&#34;Ontario&#34; country:&#34;Canada&#34; continent:North America basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "gallinago delicata egg" ; Times: 1
+	Query: "gbifdatasetid:fda9a8f8-6342-4f73-8c3b-8b79e62afc9d" ; Times: 3
+	Query: "specificepithet:cervinus class:aves stateprovince:&#34;alaska&#34; year &gt;= 1930 year &lt;= 1940" ; Times: 1
+	Query: "genus:gavia class:aves stateprovince:&#34;alaska&#34; year &gt;= 1928 year &lt;= 1932 month &gt;= 7 month &lt;= 8" ; Times: 2
+	Query: "burtch" ; Times: 1
+	Query: "specificepithet:oenanthe class:aves stateprovince:&#34;alaska&#34; year &gt;= 1928 year &lt;= 1932" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 29 (out of 1359 download events in this period)
+Total number of records downloaded: 116
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 20
+	Country: Brazil ; Times: 1
+	Country: Australia ; Times: 1
+	Country: Canada ; Times: 2
+	Country: Mexico ; Times: 5
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-04-12 ; Times: 1
+	Date: 2018-04-13 ; Times: 1
+	Date: 2018-04-03 ; Times: 1
+	Date: 2018-04-11 ; Times: 2
+	Date: 2018-04-05 ; Times: 4
+	Date: 2018-04-16 ; Times: 2
+	Date: 2018-04-06 ; Times: 1
+	Date: 2018-04-08 ; Times: 1
+	Date: 2018-04-18 ; Times: 1
+	Date: 2018-04-29 ; Times: 1
+	Date: 2018-04-30 ; Times: 1
+	Date: 2018-04-21 ; Times: 1
+	Date: 2018-04-20 ; Times: 1
+	Date: 2018-04-26 ; Times: 6
+	Date: 2018-04-25 ; Times: 4
+	Date: 2018-04-24 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Falco peregrinus" ; Times: 1
+	Query: "Passenger Pigeon" ; Times: 1
+	Query: "caracara cheriway" ; Times: 1
+	Query: "Bubo scandiacus" ; Times: 1
+	Query: "vntype:specimen specificepithet:penelope genus:anas" ; Times: 1
+	Query: "haslength:1" ; Times: 2
+	Query: "Coragyps atratus" ; Times: 1
+	Query: "recordedby:Palsson collectioncode:eggs" ; Times: 2
+	Query: "Yellow-bellied Flycatcher" ; Times: 1
+	Query: "Protonotaria citrea" ; Times: 2
+	Query: "Northern rough winged swallow" ; Times: 4
+	Query: "Alder Flycatcher" ; Times: 1
+	Query: "caracara" ; Times: 1
+	Query: "eskimo curlew" ; Times: 2
+	Query: "Meleagris gallopavo" ; Times: 1
+	Query: "specificepithet:aura genus:Cathartes stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "revillagigedo" ; Times: 1
+	Query: "Progne subis" ; Times: 1
+	Query: "bald eagle" ; Times: 1
+	Query: "specificepithet:acutipennis genus:Chordeiles" ; Times: 1
+	Query: "raccoon" ; Times: 1
+	Query: "protonotaria citrea" ; Times: 1
+
+
+End of report.
