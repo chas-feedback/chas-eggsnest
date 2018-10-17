@@ -1,0 +1,145 @@
+Report for Institution Code CHAS, Resource chas_eggsnest
+Usage stats for June 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 107
+Number of records retrieved in searches: 265
+Number of different countries where searches have been originated: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 38
+	Country: Australia ; Times: 55
+	Country: Mexico ; Times: 1
+	Country: Unknown ; Times: 7
+	Country: United Kingdom ; Times: 5
+	Country: Russia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-06-07 ; Times: 8
+	Date: 2018-06-21 ; Times: 15
+	Date: 2018-06-05 ; Times: 4
+	Date: 2018-06-10 ; Times: 2
+	Date: 2018-06-11 ; Times: 1
+	Date: 2018-06-12 ; Times: 2
+	Date: 2018-06-04 ; Times: 2
+	Date: 2018-06-15 ; Times: 4
+	Date: 2018-06-16 ; Times: 2
+	Date: 2018-06-25 ; Times: 41
+	Date: 2018-06-19 ; Times: 3
+	Date: 2018-06-13 ; Times: 3
+	Date: 2018-06-08 ; Times: 4
+	Date: 2018-06-18 ; Times: 5
+	Date: 2018-06-20 ; Times: 4
+	Date: 2018-06-23 ; Times: 1
+	Date: 2018-06-22 ; Times: 6
+
+List of queries that retrieved data from the resource: 
+	Query: "frazar labrador 1884" ; Times: 1
+	Query: "chicago academy" ; Times: 1
+	Query: "vntype:specimen specificepithet:femoralis genus:Falco basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "eskimo curlew vntype:specimen" ; Times: 1
+	Query: "numenius borealis vntype:specimen" ; Times: 4
+	Query: "Bird egg" ; Times: 2
+	Query: "Empidonax flaviventris egg" ; Times: 1
+	Query: "egg weepecket island" ; Times: 1
+	Query: "specificepithet:gilvus genus:Vireo collectioncode:eggs year &gt;= 1897 year &lt;= 1897" ; Times: 1
+	Query: "Barn Swallow vntype:specimen" ; Times: 2
+	Query: "specificepithet:flavifrons genus:Vireo collectioncode:eggs" ; Times: 1
+	Query: "elf" ; Times: 2
+	Query: "white-eyed vireo" ; Times: 1
+	Query: "minnesota Tyrannus tyrannus egg" ; Times: 1
+	Query: "(Sterna maxima OR Thalasseus maximus)" ; Times: 1
+	Query: "pigeon guillemot egg" ; Times: 1
+	Query: "specificepithet:californica genus:Aphelocoma collectioncode:eggs" ; Times: 2
+	Query: "egg alaska 1898" ; Times: 2
+	Query: "northern hawk owl" ; Times: 1
+	Query: "eskimo curlew" ; Times: 1
+	Query: "frazar labrador" ; Times: 2
+	Query: "specificepithet:americana genus:Parula collectioncode:eggs" ; Times: 1
+	Query: "porch" ; Times: 1
+	Query: "Coccyzus americanus" ; Times: 1
+	Query: "blue jay" ; Times: 3
+	Query: "blue grouse" ; Times: 2
+	Query: "Barn Swallow vntype:specimen continent:North America year &gt;= 1950 institutioncode:CHAS" ; Times: 1
+	Query: "rabbit" ; Times: 1
+	Query: "Sterna maxima OR Thalasseus maximus" ; Times: 1
+	Query: "Struthio camelus" ; Times: 2
+	Query: "sterna maximus" ; Times: 3
+	Query: "minnesota Tyrannus tyrannus" ; Times: 1
+	Query: "common yellowthroat" ; Times: 1
+	Query: "coopers hawk egg" ; Times: 1
+	Query: "specificepithet:lobatus genus:Phalaropus collectioncode:eggs" ; Times: 1
+	Query: "egg grand manan cepphus grylle" ; Times: 1
+	Query: "numenius borealis" ; Times: 54
+	Query: "country:&#34;mexico&#34; institutioncode:CHAS" ; Times: 1
+	Query: "Barn Swallow vntype:specimen institutioncode:CHAS" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 46 (out of 1169 download events in this period)
+Total number of records downloaded: 283
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 14
+	Country: United States ; Times: 23
+	Country: Australia ; Times: 1
+	Country: Mexico ; Times: 1
+	Country: Unknown ; Times: 2
+	Country: United Kingdom ; Times: 5
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-06-08 ; Times: 7
+	Date: 2018-06-23 ; Times: 3
+	Date: 2018-06-21 ; Times: 1
+	Date: 2018-06-13 ; Times: 1
+	Date: 2018-06-07 ; Times: 4
+	Date: 2018-06-06 ; Times: 3
+	Date: 2018-06-05 ; Times: 3
+	Date: 2018-06-04 ; Times: 2
+	Date: 2018-06-29 ; Times: 4
+	Date: 2018-06-28 ; Times: 1
+	Date: 2018-06-16 ; Times: 2
+	Date: 2018-06-25 ; Times: 4
+	Date: 2018-06-15 ; Times: 2
+	Date: 2018-06-22 ; Times: 2
+	Date: 2018-06-18 ; Times: 1
+	Date: 2018-06-27 ; Times: 3
+	Date: 2018-06-30 ; Times: 2
+	Date: 2018-06-02 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Carduelis flammea" ; Times: 3
+	Query: "snowy owl" ; Times: 2
+	Query: "blue footed booby" ; Times: 1
+	Query: "Vireo gilvus" ; Times: 1
+	Query: "genus:Pipilo stateprovince:&#34;Michigan&#34;" ; Times: 1
+	Query: "Aechmophorus occidentalis" ; Times: 3
+	Query: "Cyanocitta stelleri stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "sage grouse" ; Times: 2
+	Query: "honey bee" ; Times: 2
+	Query: "Perisoreus canadensis" ; Times: 1
+	Query: "Gaviidae" ; Times: 1
+	Query: "grasshopper sparrow" ; Times: 1
+	Query: "pigeon guillemot" ; Times: 1
+	Query: "(Sterna maxima OR Thalasseus maximus)" ; Times: 2
+	Query: "numenius borealis" ; Times: 3
+	Query: "bald eagle" ; Times: 5
+	Query: "Poecile atricapillus" ; Times: 2
+	Query: "common yellowthroat" ; Times: 1
+	Query: "sterna maxima" ; Times: 1
+	Query: "order:Strigiformes" ; Times: 1
+	Query: "sterna maximus" ; Times: 1
+	Query: "Podiceps grisegena" ; Times: 1
+	Query: "blue jay" ; Times: 2
+	Query: "picoides arcticus" ; Times: 1
+	Query: "barn owl" ; Times: 1
+	Query: "puffin" ; Times: 1
+	Query: "Regulus satrapa" ; Times: 1
+	Query: "Geothlypis trichas" ; Times: 1
+	Query: "order:Falconiformes" ; Times: 1
+	Query: "Sterna maxima OR Thalasseus maximus" ; Times: 1
+
+
+End of report.
