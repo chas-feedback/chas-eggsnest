@@ -1,0 +1,118 @@
+Report for Institution Code CHAS, Resource chas_eggsnest
+Usage stats for October 2018, generated on 2018/11/01
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 139
+Number of records retrieved in searches: 449
+Number of different countries where searches have been originated: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 121
+	Country: Unknown ; Times: 9
+	Country: Argentina ; Times: 4
+	Country: China ; Times: 3
+	Country: Colombia ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-10-31 ; Times: 28
+	Date: 2018-10-04 ; Times: 3
+	Date: 2018-10-05 ; Times: 1
+	Date: 2018-10-06 ; Times: 3
+	Date: 2018-10-01 ; Times: 4
+	Date: 2018-10-02 ; Times: 2
+	Date: 2018-10-30 ; Times: 6
+	Date: 2018-10-22 ; Times: 11
+	Date: 2018-10-23 ; Times: 1
+	Date: 2018-10-20 ; Times: 7
+	Date: 2018-10-26 ; Times: 10
+	Date: 2018-10-27 ; Times: 10
+	Date: 2018-10-24 ; Times: 2
+	Date: 2018-10-25 ; Times: 2
+	Date: 2018-10-28 ; Times: 2
+	Date: 2018-10-29 ; Times: 26
+	Date: 2018-10-08 ; Times: 2
+	Date: 2018-10-19 ; Times: 1
+	Date: 2018-10-18 ; Times: 6
+	Date: 2018-10-11 ; Times: 1
+	Date: 2018-10-10 ; Times: 6
+	Date: 2018-10-17 ; Times: 1
+	Date: 2018-10-16 ; Times: 3
+	Date: 2018-10-15 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "american crow" ; Times: 2
+	Query: "lost hills" ; Times: 2
+	Query: "vntype:specimen genus:Selasphorus county:&#34;Humboldt&#34; stateprovince:&#34;California&#34; year &gt;= 1800 year &lt;= 2010 month &gt;= 3 month &lt;= 6" ; Times: 2
+	Query: "limosa lapponica baueri" ; Times: 1
+	Query: "Little Blue Herons" ; Times: 1
+	Query: "specificepithet:pusilla genus:Spizella class:Aves year &gt;= 1891 year &lt;= 1891" ; Times: 1
+	Query: "Buteo regalis mappable:1" ; Times: 1
+	Query: "Megascops asio" ; Times: 1
+	Query: "specificepithet:caerulea genus:Passerina" ; Times: 1
+	Query: "Barn Swallow vntype:specimen" ; Times: 7
+	Query: "egg pratt" ; Times: 1
+	Query: "dove minnesota" ; Times: 1
+	Query: "gbifdatasetid:fda9a8f8-6342-4f73-8c3b-8b79e62afc9d" ; Times: 6
+	Query: "elf" ; Times: 4
+	Query: "zone-tailed hawk" ; Times: 3
+	Query: "egg rupert" ; Times: 1
+	Query: "Spinus tristis" ; Times: 18
+	Query: "Cygnus buccinator mappable:1" ; Times: 2
+	Query: "Trumpeter swan mappable:1" ; Times: 1
+	Query: "Oberlin" ; Times: 1
+	Query: "Marsh Wren" ; Times: 1
+	Query: "louisianna" ; Times: 1
+	Query: "specificepithet:lecontei genus:Toxostoma county:&#34;Riverside&#34;" ; Times: 1
+	Query: "egg michigan 1892" ; Times: 1
+	Query: "northern cardinal" ; Times: 1
+	Query: "blue jay" ; Times: 2
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/CHAS:Egg:360?seid=3128876&#34;" ; Times: 24
+	Query: "witch" ; Times: 2
+	Query: "rabbit" ; Times: 2
+	Query: "brown-headed cowbird" ; Times: 1
+	Query: "gyrfalcon" ; Times: 1
+	Query: "summer tanager egg" ; Times: 1
+	Query: "Spinus tristis mappable:1" ; Times: 12
+	Query: "cardinal" ; Times: 2
+	Query: "canada thistle" ; Times: 1
+	Query: "king vulture" ; Times: 2
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/CHAS:Egg:529?seid=3129099&#34;" ; Times: 24
+	Query: "parus" ; Times: 1
+	Query: "murre egg" ; Times: 1
+	Query: "scarlet tanager egg" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 11 (out of 1300 download events in this period)
+Total number of records downloaded: 62
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 10
+	Country: Norway ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-10-26 ; Times: 1
+	Date: 2018-10-02 ; Times: 1
+	Date: 2018-10-24 ; Times: 2
+	Date: 2018-10-09 ; Times: 1
+	Date: 2018-10-18 ; Times: 2
+	Date: 2018-10-16 ; Times: 2
+	Date: 2018-10-15 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:lecontei genus:Toxostoma county:&#34;Riverside&#34;" ; Times: 1
+	Query: "mammals" ; Times: 1
+	Query: "genus:Picoides stateprovince:&#34;Minnesota&#34;" ; Times: 1
+	Query: "specificepithet:platyrhynchos genus:Anas" ; Times: 1
+	Query: "Megascops asio minnesota" ; Times: 1
+	Query: "paulson" ; Times: 1
+	Query: "brown-headed cowbird" ; Times: 1
+	Query: "snowy owl vntype:specimen" ; Times: 1
+	Query: "specificepithet:livia genus:columba" ; Times: 1
+	Query: "Megascops asio" ; Times: 1
+	Query: "Paulson" ; Times: 1
+
+
+End of report.
