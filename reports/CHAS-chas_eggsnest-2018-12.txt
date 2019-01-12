@@ -1,0 +1,191 @@
+Report for Institution Code CHAS, Resource chas_eggsnest
+Usage stats for December 2018, generated on 2019/01/12
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 153
+Number of records retrieved in searches: 1306
+Number of different countries where searches have been originated: 14
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 9
+	Country: United States ; Times: 88
+	Country: Italy ; Times: 1
+	Country: Mexico ; Times: 5
+	Country: Unknown ; Times: 20
+	Country: India ; Times: 2
+	Country: France ; Times: 14
+	Country: United Kingdom ; Times: 1
+	Country: Peru ; Times: 4
+	Country: Belgium ; Times: 1
+	Country: Honduras ; Times: 3
+	Country: Myanmar [Burma] ; Times: 1
+	Country: Russia ; Times: 2
+	Country: Spain ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-12-27 ; Times: 1
+	Date: 2018-12-28 ; Times: 1
+	Date: 2018-12-19 ; Times: 1
+	Date: 2018-12-18 ; Times: 7
+	Date: 2018-12-31 ; Times: 1
+	Date: 2018-12-29 ; Times: 1
+	Date: 2018-12-15 ; Times: 1
+	Date: 2018-12-14 ; Times: 9
+	Date: 2018-12-17 ; Times: 7
+	Date: 2018-12-11 ; Times: 4
+	Date: 2018-12-10 ; Times: 7
+	Date: 2018-12-13 ; Times: 1
+	Date: 2018-12-12 ; Times: 4
+	Date: 2018-12-20 ; Times: 10
+	Date: 2018-12-21 ; Times: 4
+	Date: 2018-12-23 ; Times: 1
+	Date: 2018-12-24 ; Times: 1
+	Date: 2018-12-25 ; Times: 6
+	Date: 2018-12-08 ; Times: 5
+	Date: 2018-12-09 ; Times: 6
+	Date: 2018-12-06 ; Times: 13
+	Date: 2018-12-07 ; Times: 3
+	Date: 2018-12-04 ; Times: 12
+	Date: 2018-12-05 ; Times: 14
+	Date: 2018-12-02 ; Times: 12
+	Date: 2018-12-03 ; Times: 12
+	Date: 2018-12-01 ; Times: 9
+
+List of queries that retrieved data from the resource: 
+	Query: "Sterna albifrons mappable:1" ; Times: 1
+	Query: "clapper rail" ; Times: 1
+	Query: "Alca torda mappable:1" ; Times: 1
+	Query: "vntype:specimen class:aves recordedby:burtch" ; Times: 1
+	Query: "specificepithet:carolinensis family:Paridae" ; Times: 2
+	Query: "Northern Cardinal" ; Times: 1
+	Query: "Burrowing owl" ; Times: 2
+	Query: "otus" ; Times: 1
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/CHAS:Egg:529?seid=3129099&#34;" ; Times: 18
+	Query: "Black Guillemot" ; Times: 1
+	Query: "Sterna paradisaea mappable:1" ; Times: 1
+	Query: "specificepithet:umbellus genus:bonasa" ; Times: 1
+	Query: "Gavia arctica mappable:1" ; Times: 1
+	Query: "woodpecker" ; Times: 1
+	Query: "Ardeidae ardea herodias" ; Times: 1
+	Query: "Cygnus olor" ; Times: 1
+	Query: "vntype:specimen specificepithet:cyanea genus:Passerina month &gt;= 6 month &lt;= 7" ; Times: 1
+	Query: "Charadrius melodus" ; Times: 4
+	Query: "Rissa tridactyla mappable:1" ; Times: 1
+	Query: "hasmedia:1" ; Times: 6
+	Query: "bluff lake" ; Times: 1
+	Query: "eggshell" ; Times: 2
+	Query: "Sterna hirundo mappable:1" ; Times: 1
+	Query: "specificepithet:carolinensis genus:Poecile year &lt;= 2017" ; Times: 1
+	Query: "Morus bassanus mappable:1" ; Times: 1
+	Query: "(&#34;cactus wren&#34; OR &#34;Campylorhynchus brunneicapillus&#34;)" ; Times: 1
+	Query: "buteo swainsoni" ; Times: 3
+	Query: "king rail" ; Times: 1
+	Query: "specificepithet:asio genus:megascops" ; Times: 1
+	Query: "cardinal" ; Times: 1
+	Query: "Fratercula arctica mappable:1" ; Times: 1
+	Query: "specificepithet:carolinensis genus:Poecile" ; Times: 1
+	Query: "pacific loon" ; Times: 2
+	Query: "Spinus tristis" ; Times: 2
+	Query: "Buteo albonotatus" ; Times: 2
+	Query: "king snake" ; Times: 1
+	Query: "Birds eggs" ; Times: 1
+	Query: "ardeidae ardea herodias" ; Times: 1
+	Query: "Larus argentatus mappable:1" ; Times: 1
+	Query: "Aquila baja" ; Times: 1
+	Query: "american coot" ; Times: 1
+	Query: "Archilochus colubris" ; Times: 1
+	Query: "Larus marinus mappable:1" ; Times: 1
+	Query: "Asio otus" ; Times: 1
+	Query: "Gavia immer mappable:1" ; Times: 1
+	Query: "Coccyzus americanus" ; Times: 1
+	Query: "Pingree Osburn" ; Times: 3
+	Query: "vulture" ; Times: 1
+	Query: "specificepithet:cyanea genus:Passerina month &gt;= 8 month &lt;= 9" ; Times: 1
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/CHAS:Egg:360?seid=3128876&#34;" ; Times: 18
+	Query: "witch" ; Times: 1
+	Query: "Bubo bubo" ; Times: 1
+	Query: "Alca torda  mappable:1" ; Times: 1
+	Query: "Charadrius wilsonia" ; Times: 1
+	Query: "institutioncode:chas" ; Times: 1
+	Query: "Gallinula galeata mappable:1" ; Times: 9
+	Query: "Mangrove Rail" ; Times: 3
+	Query: "agelaius minnesota" ; Times: 1
+	Query: "continent:North America hasmedia:1" ; Times: 2
+	Query: "cactus wren" ; Times: 1
+	Query: "elf" ; Times: 1
+	Query: "Thalasseus sandvicensis mappable:1" ; Times: 1
+	Query: "Buteo platypterus" ; Times: 1
+	Query: "Spinus tristis mappable:1" ; Times: 9
+	Query: "Haliaeetus leucocephalus 100" ; Times: 1
+	Query: "4816" ; Times: 1
+	Query: "otus asio" ; Times: 2
+	Query: "genus:phoenicopterus year &gt;= 1870 year &lt;= 1900" ; Times: 1
+	Query: "agelaius minnesota egg" ; Times: 2
+	Query: "passerina cyanea" ; Times: 2
+	Query: "tyrannus eggs" ; Times: 1
+	Query: "Centrocercus urophasianus" ; Times: 1
+	Query: "Buteogallus anthracinus" ; Times: 1
+	Query: "Geococcyx californianus" ; Times: 1
+	Query: "specificepithet:pusilla genus:Sitta" ; Times: 1
+	Query: "ardea herodias" ; Times: 1
+	Query: "specificepithet:carolinensis family:Paridae year &lt;= 2017" ; Times: 1
+	Query: "Buteo jamaicensis borealis" ; Times: 1
+	Query: "crissal thrasher" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 26 (out of 809 download events in this period)
+Total number of records downloaded: 214
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 17
+	Country: France ; Times: 1
+	Country: India ; Times: 5
+	Country: Mexico ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-12-12 ; Times: 2
+	Date: 2018-12-20 ; Times: 7
+	Date: 2018-12-21 ; Times: 1
+	Date: 2018-12-19 ; Times: 1
+	Date: 2018-12-25 ; Times: 1
+	Date: 2018-12-31 ; Times: 1
+	Date: 2018-12-14 ; Times: 1
+	Date: 2018-12-28 ; Times: 1
+	Date: 2018-12-07 ; Times: 3
+	Date: 2018-12-17 ; Times: 4
+	Date: 2018-12-05 ; Times: 1
+	Date: 2018-12-11 ; Times: 1
+	Date: 2018-12-03 ; Times: 1
+	Date: 2018-12-18 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Surnia ulula" ; Times: 1
+	Query: "(&#34;curve-billed thrasher&#34; OR &#34;Toxostoma curvirostre&#34;)" ; Times: 1
+	Query: "Centrocercus urophasianus" ; Times: 1
+	Query: "megascops kennicottii" ; Times: 1
+	Query: "Charadrius melodus" ; Times: 1
+	Query: "athene cunicularia" ; Times: 1
+	Query: "(&#34;cactus wren&#34; OR &#34;Campylorhynchus brunneicapillus&#34;)" ; Times: 1
+	Query: "specificepithet:sinuatus genus:Cardinalis" ; Times: 1
+	Query: "specificepithet:livia genus:Columba" ; Times: 1
+	Query: "(&#34;verdin&#34; OR &#34;Auriparus flaviceps&#34;)" ; Times: 1
+	Query: "Asio otus" ; Times: 1
+	Query: "strigidae" ; Times: 1
+	Query: "Pingree Osburn" ; Times: 1
+	Query: "black throated sparrow" ; Times: 1
+	Query: "family:trochilidae" ; Times: 1
+	Query: "specificepithet:cyanea genus:Passerina month &gt;= 8 month &lt;= 9" ; Times: 1
+	Query: "cactus wren" ; Times: 1
+	Query: "curve-billed thrasher" ; Times: 1
+	Query: "verdin" ; Times: 1
+	Query: "vntype:specimen specificepithet:cyanea genus:Passerina month &gt;= 6 month &lt;= 7" ; Times: 1
+	Query: "(&#34;black-throated sparrow&#34; OR &#34;Amphispiza bilineata&#34;)" ; Times: 1
+	Query: "country:&#34;Mexico&#34; continent:America" ; Times: 3
+	Query: "Molothrus ater obscurus" ; Times: 1
+	Query: "Geococcyx californianus" ; Times: 1
+
+
+End of report.
