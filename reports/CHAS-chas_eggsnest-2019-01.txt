@@ -1,0 +1,155 @@
+Report for Institution Code CHAS, Resource chas_eggsnest
+Usage stats for January 2019, generated on 2019/02/20
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 98
+Number of records retrieved in searches: 754
+Number of different countries where searches have been originated: 11
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 7
+	Country: United States ; Times: 49
+	Country: Italy ; Times: 5
+	Country: Mexico ; Times: 1
+	Country: Unknown ; Times: 9
+	Country: United Kingdom ; Times: 1
+	Country: Ecuador ; Times: 4
+	Country: Peru ; Times: 18
+	Country: New Zealand ; Times: 1
+	Country: Russia ; Times: 2
+	Country: Brazil ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-01-31 ; Times: 1
+	Date: 2019-01-23 ; Times: 1
+	Date: 2019-01-19 ; Times: 2
+	Date: 2019-01-14 ; Times: 1
+	Date: 2019-01-15 ; Times: 3
+	Date: 2019-01-30 ; Times: 1
+	Date: 2019-01-17 ; Times: 4
+	Date: 2019-01-10 ; Times: 2
+	Date: 2019-01-11 ; Times: 8
+	Date: 2019-01-12 ; Times: 4
+	Date: 2019-01-13 ; Times: 4
+	Date: 2019-01-03 ; Times: 5
+	Date: 2019-01-02 ; Times: 3
+	Date: 2019-01-29 ; Times: 4
+	Date: 2019-01-28 ; Times: 8
+	Date: 2019-01-01 ; Times: 5
+	Date: 2019-01-07 ; Times: 4
+	Date: 2019-01-06 ; Times: 1
+	Date: 2019-01-05 ; Times: 1
+	Date: 2019-01-04 ; Times: 14
+	Date: 2019-01-20 ; Times: 3
+	Date: 2019-01-09 ; Times: 6
+	Date: 2019-01-22 ; Times: 2
+	Date: 2019-01-24 ; Times: 4
+	Date: 2019-01-27 ; Times: 1
+	Date: 2019-01-08 ; Times: 4
+	Date: 2019-01-16 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Parabuteo unicinctus" ; Times: 1
+	Query: "Cathartes aura" ; Times: 1
+	Query: "house finch" ; Times: 2
+	Query: "Chicago" ; Times: 1
+	Query: "genus:corvus class:aves haslength:1 hasmedia:1" ; Times: 1
+	Query: "Geococcyx californianus" ; Times: 1
+	Query: "Caracara plancus" ; Times: 1
+	Query: "8442" ; Times: 4
+	Query: "Podilymbus podiceps" ; Times: 1
+	Query: "specificepithet:olivacea genus:Piranga" ; Times: 1
+	Query: "pectoral sandpiper" ; Times: 3
+	Query: "house wren" ; Times: 1
+	Query: "falco peregrinus" ; Times: 5
+	Query: "mimus polyglottos" ; Times: 1
+	Query: "specificepithet:caerulea caerulea genus:Passerina year &gt;= 1980 year &lt;= 2018" ; Times: 1
+	Query: "Iowa" ; Times: 1
+	Query: "Sterna antillarum" ; Times: 1
+	Query: "hasmedia:1" ; Times: 2
+	Query: "elf" ; Times: 1
+	Query: "specificepithet:cyanea genus:Passerina" ; Times: 1
+	Query: "Toxostoma lecontei" ; Times: 2
+	Query: "buteo swainsoni" ; Times: 2
+	Query: "Aou" ; Times: 1
+	Query: "specificepithet:asio genus:megascops" ; Times: 1
+	Query: "Spinus tristis" ; Times: 10
+	Query: "10812" ; Times: 1
+	Query: "Chordeiles minor" ; Times: 1
+	Query: "Buteo albonotatus" ; Times: 1
+	Query: "savannah cardinalis egg" ; Times: 1
+	Query: "rose breasted grosbeak" ; Times: 1
+	Query: "sapsucker" ; Times: 2
+	Query: "specificepithet:caerulea caerulea genus:Passerina year &gt;= 1970 year &lt;= 2018" ; Times: 1
+	Query: "Chordeiles acutipennis" ; Times: 1
+	Query: "iowa" ; Times: 1
+	Query: "Protonotaria citrea vntype:specimen (Egg) hasmedia:1" ; Times: 1
+	Query: "stateprovince:&#34;Colorado&#34; hasmedia:1" ; Times: 2
+	Query: "snow bunting" ; Times: 2
+	Query: "sharp-shinned hawk" ; Times: 1
+	Query: "Nyctanassa violacea" ; Times: 1
+	Query: "Coragyps atratus" ; Times: 1
+	Query: "stuff" ; Times: 1
+	Query: "dickcissel" ; Times: 2
+	Query: "Gallinula galeata" ; Times: 1
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/CHAS:Egg:360?seid=3128876&#34;" ; Times: 2
+	Query: "merlin" ; Times: 1
+	Query: "sand fly" ; Times: 1
+	Query: "class:aves haslength:1 hasmedia:1" ; Times: 2
+	Query: "Rostrhamus sociabilis" ; Times: 1
+	Query: "Gallinula galeata mappable:1" ; Times: 1
+	Query: "Oceanodroma melania" ; Times: 1
+	Query: "vntype:specimen specificepithet:asio genus:megascops" ; Times: 1
+	Query: "Aramus guarauna" ; Times: 1
+	Query: "Bill size" ; Times: 1
+	Query: "red bellied woodpecker" ; Times: 1
+	Query: "Ictinia mississippiensis" ; Times: 1
+	Query: "Ammodramus maritimus" ; Times: 1
+	Query: "albicaudatus" ; Times: 1
+	Query: "Platalea ajaja" ; Times: 1
+	Query: "(house wren)" ; Times: 1
+	Query: "gbifdatasetid:fda9a8f8-6342-4f73-8c3b-8b79e62afc9d" ; Times: 2
+	Query: "Caracara cheriway" ; Times: 1
+	Query: "Falco femoralis" ; Times: 1
+	Query: "Ardea alba" ; Times: 1
+	Query: "Buteogallus anthracinus" ; Times: 1
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/CHAS:Egg:529?seid=3129099&#34;" ; Times: 2
+	Query: "Spinus tristis mappable:1" ; Times: 1
+	Query: "eastern screech owl" ; Times: 1
+	Query: "bonasa 1888" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 11 (out of 962 download events in this period)
+Total number of records downloaded: 26
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 9
+	Country: Mexico ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-01-03 ; Times: 3
+	Date: 2019-01-01 ; Times: 1
+	Date: 2019-01-15 ; Times: 1
+	Date: 2019-01-09 ; Times: 3
+	Date: 2019-01-22 ; Times: 1
+	Date: 2019-01-25 ; Times: 1
+	Date: 2019-01-24 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:caerulea caerulea genus:Passerina year &gt;= 1970 year &lt;= 2018" ; Times: 1
+	Query: "melanerpes uropygialis" ; Times: 1
+	Query: "Toxostoma lecontei" ; Times: 1
+	Query: "reddish egret" ; Times: 1
+	Query: "specificepithet:olivacea genus:Piranga year &gt;= 1990 year &lt;= 2018" ; Times: 1
+	Query: "Melanerpes uropygialis" ; Times: 1
+	Query: "specificepithet:rubra genus:Piranga year &gt;= 1970 year &lt;= 2018" ; Times: 1
+	Query: "Ammodramus savannarum" ; Times: 1
+	Query: "Asio flammeus" ; Times: 1
+	Query: "Oceanodroma melania" ; Times: 1
+	Query: "Toxostoma crissale" ; Times: 1
+
+
+End of report.
