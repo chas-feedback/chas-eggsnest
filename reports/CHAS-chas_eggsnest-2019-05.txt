@@ -1,0 +1,210 @@
+Report for Institution Code CHAS, Resource chas_eggsnest
+Usage stats for May 2019, generated on 2019/06/05
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 194
+Number of records retrieved in searches: 1619
+Number of different countries where searches have been originated: 12
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 8
+	Country: Canada ; Times: 17
+	Country: Chile ; Times: 1
+	Country: Mexico ; Times: 12
+	Country: Denmark ; Times: 11
+	Country: Turkey ; Times: 1
+	Country: France ; Times: 1
+	Country: United States ; Times: 118
+	Country: United Kingdom ; Times: 21
+	Country: Colombia ; Times: 1
+	Country: Argentina ; Times: 2
+	Country: Russia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-05-30 ; Times: 5
+	Date: 2019-05-31 ; Times: 8
+	Date: 2019-05-09 ; Times: 4
+	Date: 2019-05-08 ; Times: 12
+	Date: 2019-05-07 ; Times: 3
+	Date: 2019-05-06 ; Times: 3
+	Date: 2019-05-03 ; Times: 1
+	Date: 2019-05-02 ; Times: 7
+	Date: 2019-05-01 ; Times: 2
+	Date: 2019-05-25 ; Times: 15
+	Date: 2019-05-24 ; Times: 6
+	Date: 2019-05-27 ; Times: 3
+	Date: 2019-05-26 ; Times: 6
+	Date: 2019-05-21 ; Times: 27
+	Date: 2019-05-20 ; Times: 3
+	Date: 2019-05-23 ; Times: 17
+	Date: 2019-05-22 ; Times: 25
+	Date: 2019-05-29 ; Times: 3
+	Date: 2019-05-28 ; Times: 14
+	Date: 2019-05-18 ; Times: 1
+	Date: 2019-05-19 ; Times: 2
+	Date: 2019-05-10 ; Times: 2
+	Date: 2019-05-11 ; Times: 1
+	Date: 2019-05-12 ; Times: 7
+	Date: 2019-05-13 ; Times: 4
+	Date: 2019-05-14 ; Times: 3
+	Date: 2019-05-15 ; Times: 5
+	Date: 2019-05-16 ; Times: 2
+	Date: 2019-05-17 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "heron vntype:specimen basisofrecord:PreservedSpecimen hasmedia:1" ; Times: 2
+	Query: "phalacrocorax carbo" ; Times: 1
+	Query: "vntype:specimen specificepithet:virginianus genus:bubo year &gt;= 1871 year &lt;= 1880" ; Times: 1
+	Query: "kestrel" ; Times: 1
+	Query: "af 388." ; Times: 1
+	Query: "alberta bucephala egg" ; Times: 1
+	Query: "milwaukee" ; Times: 3
+	Query: "Fregata magnificens year &gt; 1990 NOT fmnh" ; Times: 1
+	Query: "wood duck" ; Times: 2
+	Query: "Rissa tridactyla year &gt; 1990 NOT clo NOT &#34;nature kenya&#34;" ; Times: 1
+	Query: "Motacilla alba year&lt;=1940" ; Times: 1
+	Query: "elf" ; Times: 1
+	Query: "af 388" ; Times: 1
+	Query: "caprimulgus carolinensis year &gt; 1985 NOT CLO NOT &#34;Nature Kenya&#34;" ; Times: 1
+	Query: "Charadrius melodus mappable:1" ; Times: 1
+	Query: "specificepithet:colchicus genus:phasianus country:&#34;United States&#34; year &gt;= 1850 year &lt;= 1920" ; Times: 1
+	Query: "Motacilla" ; Times: 1
+	Query: "class:aves county:&#34;dutchess&#34; year &gt;= 1800 year &lt;= 1950" ; Times: 1
+	Query: "SAGE GROUSE" ; Times: 1
+	Query: "SeChrist AND Coronado NOT Maryport NOT Diego NOT BRachyramphus NOT Herdel NOT Larus" ; Times: 1
+	Query: "Phasianus colchicus" ; Times: 3
+	Query: "SeChrist AND Coronado NOT Maryport" ; Times: 1
+	Query: "Columba livia year &lt;=1940" ; Times: 1
+	Query: "ectopistes migratorius" ; Times: 3
+	Query: "bird eggs" ; Times: 1
+	Query: "spider" ; Times: 2
+	Query: "Common pheasant" ; Times: 6
+	Query: "common moorhen" ; Times: 1
+	Query: "Dromaius novaehollandiae year &gt; 1985 NOT CLO NOT &#34;Nature Kenya&#34;" ; Times: 1
+	Query: "Ring necked pheasant" ; Times: 3
+	Query: "Yellow-billed cuckoo" ; Times: 6
+	Query: "Aramus guarauna year &gt; 1985 NOT CLO NOT &#34;Nature Kenya&#34;" ; Times: 2
+	Query: "vntype:specimen genus:Ectopistes" ; Times: 3
+	Query: "hummingbird egg" ; Times: 2
+	Query: "loggerhead" ; Times: 1
+	Query: "specificepithet:swainsoni genus:buteo year &lt;= 1960" ; Times: 1
+	Query: "Arctos" ; Times: 1
+	Query: "tamaulipas county" ; Times: 1
+	Query: "ruffed grouse" ; Times: 3
+	Query: "snow bunting" ; Times: 9
+	Query: "class:aves county:&#34;dutchess&#34; year &gt;= 1800 year &lt;= 1939" ; Times: 1
+	Query: "Gallinula galeata" ; Times: 1
+	Query: "Phoenicopterus ruber year &gt; 1990 NOT CLO NOT &#34;nature kenya&#34;" ; Times: 1
+	Query: "Gallinula galeata mappable:1" ; Times: 1
+	Query: "county:&#34;dutchess&#34; year &gt;= 1800 year &lt;= 1950" ; Times: 1
+	Query: "vntype:specimen specificepithet:virginianus genus:bubo year &gt;= 1881 year &lt;= 1890" ; Times: 1
+	Query: "Ring-necked Pheasant" ; Times: 3
+	Query: "Agelaius phoeniceus year &gt; 1990 NOT clo NOT &#34;nature kenya&#34;" ; Times: 1
+	Query: "class:aves stateprovince:&#34;alaska&#34; year &gt;= 1934 year &lt;= 1934" ; Times: 1
+	Query: "recordedby:ingraham year &gt;= 1889 year &lt;= 1889" ; Times: 1
+	Query: "recordedby:ingraham year &gt;= 1888 year &lt;= 1889" ; Times: 1
+	Query: "egg pugnax" ; Times: 1
+	Query: "specificepithet:lapponica class:aves stateprovince:&#34;alaska&#34; year &gt;= 1929 year &lt;= 1929" ; Times: 1
+	Query: "catharus fuscescens" ; Times: 1
+	Query: "bank swallow" ; Times: 1
+	Query: "SeChrist AND ISland NOT Maryport" ; Times: 1
+	Query: "Spinus tristis" ; Times: 3
+	Query: "stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:virginianus genus:bubo year &gt;= 1901 year &lt;= 1910" ; Times: 1
+	Query: "Philetairus socius" ; Times: 1
+	Query: "RUFFED GROUSE" ; Times: 7
+	Query: "Coccyzus americanus" ; Times: 2
+	Query: "SeChrist AND Coronado NOT Maryport NOT Diego NOT Herdel" ; Times: 1
+	Query: "Piping plover" ; Times: 6
+	Query: "Fregata magnificens year &gt; 1990 NOT clo" ; Times: 1
+	Query: "Vireo bellii" ; Times: 1
+	Query: "vntype:specimen specificepithet:virginianus genus:bubo year &gt;= 1911 year &lt;= 1920" ; Times: 1
+	Query: "cormorant vntype:specimen hasmedia:1" ; Times: 1
+	Query: "SeChrist AND Coronado NOT Maryport NOT Diego NOT Herdel NOT Larus" ; Times: 1
+	Query: "Coccyzus erythropthalmus" ; Times: 1
+	Query: "Phalaropus fulicarius mappable:1 year&gt;=1988 year&lt;=2019 month&gt;=1 month&lt;=12 day&gt;=1 day&lt;=31" ; Times: 1
+	Query: "Gophers" ; Times: 1
+	Query: "SeChrist AND Coronado NOT Maryport NOT Carpodacus NOT Diego NOT BRachyramphus NOT Herdel NOT Larus" ; Times: 1
+	Query: "Dryobates pubescens" ; Times: 1
+	Query: "phasianus colchicus" ; Times: 1
+	Query: "SeChrist AND ISland" ; Times: 1
+	Query: "red breasted merganser" ; Times: 1
+	Query: "sage grouse" ; Times: 1
+	Query: "loon vntype:specimen basisofrecord:PreservedSpecimen hasmedia:1" ; Times: 1
+	Query: "hasmedia:1" ; Times: 1
+	Query: "Florida scrub-jay" ; Times: 14
+	Query: "buteo swainsoni" ; Times: 1
+	Query: "genus:Picoides institutioncode:CHAS" ; Times: 1
+	Query: "SeChrist AND Coronado NOT Maryport NOT Diego" ; Times: 3
+	Query: "Polioptila caerulea year &gt; 1990 NOT CLO NOT &#34;nature kenya&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:squamata genus:Callipepla" ; Times: 1
+	Query: "preparations:egg" ; Times: 2
+	Query: "vntype:specimen specificepithet:virginianus genus:bubo year &gt;= 1891 year &lt;= 1900" ; Times: 1
+	Query: "horton dutchess" ; Times: 17
+	Query: "genus:corvus stateprovince:&#34;Louisiana&#34;" ; Times: 2
+	Query: "Cinclus mexicanus year &gt; 1990 NOT CLO" ; Times: 1
+	Query: "Charadrius melodus" ; Times: 6
+	Query: "Toxostoma lecontei" ; Times: 5
+	Query: "vntype:specimen genus:grus" ; Times: 1
+	Query: "gbifdatasetid:fda9a8f8-6342-4f73-8c3b-8b79e62afc9d" ; Times: 3
+	Query: "cormorant vntype:specimen basisofrecord:PreservedSpecimen hasmedia:1" ; Times: 1
+	Query: "SECHRIST AND Island" ; Times: 1
+	Query: "Common Pheasant" ; Times: 1
+	Query: "Phasianus colchicus year &lt;= 1940" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 26 (out of 940 download events in this period)
+Total number of records downloaded: 153
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 16
+	Country: United Kingdom ; Times: 2
+	Country: Russia ; Times: 1
+	Country: Canada ; Times: 6
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-05-25 ; Times: 2
+	Date: 2019-05-24 ; Times: 2
+	Date: 2019-05-27 ; Times: 1
+	Date: 2019-05-21 ; Times: 2
+	Date: 2019-05-30 ; Times: 1
+	Date: 2019-05-23 ; Times: 1
+	Date: 2019-05-22 ; Times: 2
+	Date: 2019-05-31 ; Times: 7
+	Date: 2019-05-28 ; Times: 4
+	Date: 2019-05-10 ; Times: 2
+	Date: 2019-05-14 ; Times: 1
+	Date: 2019-05-02 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "vntype:specimen specificepithet:gambelii genus:Callipepla" ; Times: 1
+	Query: "vntype:specimen specificepithet:virginianus genus:bubo year &gt;= 1871 year &lt;= 1880" ; Times: 1
+	Query: "vntype:specimen specificepithet:californica genus:Callipepla" ; Times: 1
+	Query: "specificepithet:alexandri genus:Archilochus stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Lanius ludovicianus" ; Times: 1
+	Query: "phalacrocorax carbo" ; Times: 1
+	Query: "vntype:specimen specificepithet:sordidulus genus:contopus" ; Times: 1
+	Query: "vntype:specimen genus:Ectopistes" ; Times: 1
+	Query: "vntype:specimen specificepithet:virginianus genus:bubo year &gt;= 1901 year &lt;= 1910" ; Times: 1
+	Query: "vntype:specimen specificepithet:squamata genus:Callipepla" ; Times: 1
+	Query: "vntype:specimen specificepithet:virginianus genus:bubo year &gt;= 1891 year &lt;= 1900" ; Times: 1
+	Query: "vntype:specimen specificepithet:virginianus genus:bubo year &gt;= 1921 year &lt;= 1930" ; Times: 1
+	Query: "Coccyzus americanus" ; Times: 1
+	Query: "class:aves county:&#34;dutchess&#34; year &gt;= 1800 year &lt;= 1950" ; Times: 1
+	Query: "vntype:specimen specificepithet:virginianus genus:bubo year &gt;= 1911 year &lt;= 1920" ; Times: 1
+	Query: "vntype:specimen specificepithet:virginianus genus:bubo year &gt;= 1881 year &lt;= 1890" ; Times: 1
+	Query: "specificepithet:tricolor genus:agelaius basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Toxostoma lecontei" ; Times: 2
+	Query: "vntype:specimen genus:grus" ; Times: 1
+	Query: "selasphorus rufus" ; Times: 1
+	Query: "vntype:specimen specificepithet:virginianus genus:bubo year &gt;= 1931 year &lt;= 1940" ; Times: 1
+	Query: "Ring-necked Pheasant" ; Times: 2
+	Query: "vntype:specimen specificepithet:porphyrio genus:porphyrio" ; Times: 1
+	Query: "Vireo bellii" ; Times: 1
+
+
+End of report.
