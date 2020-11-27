@@ -1,0 +1,152 @@
+Report for Institution Code CHAS, Resource chas_eggsnest
+Usage stats for March 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 105
+Number of records retrieved in searches: 1208
+Number of different countries where searches have been originated: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 8
+	Country: United States ; Times: 71
+	Country: Mexico ; Times: 1
+	Country: Unknown ; Times: 2
+	Country: India ; Times: 5
+	Country: United Kingdom ; Times: 3
+	Country: Sweden ; Times: 1
+	Country: Japan ; Times: 12
+	Country: Thailand ; Times: 1
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-03-30 ; Times: 1
+	Date: 2020-03-31 ; Times: 1
+	Date: 2020-03-19 ; Times: 6
+	Date: 2020-03-23 ; Times: 2
+	Date: 2020-03-12 ; Times: 1
+	Date: 2020-03-13 ; Times: 2
+	Date: 2020-03-10 ; Times: 1
+	Date: 2020-03-11 ; Times: 11
+	Date: 2020-03-27 ; Times: 1
+	Date: 2020-03-26 ; Times: 1
+	Date: 2020-03-25 ; Times: 1
+	Date: 2020-03-24 ; Times: 5
+	Date: 2020-03-09 ; Times: 5
+	Date: 2020-03-22 ; Times: 2
+	Date: 2020-03-21 ; Times: 3
+	Date: 2020-03-20 ; Times: 8
+	Date: 2020-03-05 ; Times: 3
+	Date: 2020-03-04 ; Times: 10
+	Date: 2020-03-07 ; Times: 2
+	Date: 2020-03-06 ; Times: 21
+	Date: 2020-03-03 ; Times: 13
+	Date: 2020-03-02 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Passerina" ; Times: 1
+	Query: "Passenger Pigeon" ; Times: 5
+	Query: "specificepithet:falcinellus genus:Plegadis county:&#34;nueces&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "great kiskadee" ; Times: 1
+	Query: "Pitangus sulphuratus stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "mappable:1 year&gt;=1990 year&lt;=2019 month&gt;=1 month&lt;=12 day&gt;=1 day&lt;=1" ; Times: 8
+	Query: "bird eggs" ; Times: 2
+	Query: "specificepithet:lagopus genus:Lagopus country:&#34;United States&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "agelaius tricolor" ; Times: 1
+	Query: "Spatula clypeata" ; Times: 2
+	Query: "specificepithet:Cheriway genus:Caracara" ; Times: 1
+	Query: "eastern meadowlark" ; Times: 1
+	Query: "genus:Baeolophus stateprovince:&#34;Texas&#34; year &lt;= 1950" ; Times: 1
+	Query: "genus:nucifraga preparations:egg" ; Times: 2
+	Query: "mockingbird" ; Times: 1
+	Query: "(fullerton)" ; Times: 1
+	Query: "Virginia Rail" ; Times: 1
+	Query: "institutioncode:CHAS" ; Times: 1
+	Query: "diomedea kerguelen" ; Times: 1
+	Query: "great auk" ; Times: 3
+	Query: "mappable:1 year&gt;=1979 year&lt;=2019 month&gt;=1 month&lt;=12 day&gt;=1 day&lt;=1" ; Times: 4
+	Query: "horned lark" ; Times: 2
+	Query: "impennis" ; Times: 1
+	Query: "aechmophorus" ; Times: 1
+	Query: "hasmedia:1" ; Times: 3
+	Query: "stateprovince:&#34;texas&#34; recordedby:carroll" ; Times: 2
+	Query: "elf" ; Times: 1
+	Query: "locality:bellota" ; Times: 2
+	Query: "Dickcissel" ; Times: 2
+	Query: "buteo swainsoni" ; Times: 2
+	Query: "specificepithet:cyanea genus:Passerina" ; Times: 1
+	Query: "specificepithet:tricolor genus:Agelaius" ; Times: 2
+	Query: "locality:jenny lind" ; Times: 1
+	Query: "genus:Pinguinus" ; Times: 1
+	Query: "genus:hydrobates" ; Times: 1
+	Query: "bobolink" ; Times: 1
+	Query: "Dusky Thrush" ; Times: 2
+	Query: "specificepithet:swainsoni genus:Buteo month &gt;= 1 month &lt;= 2" ; Times: 1
+	Query: "diomedea exulans kerguelen" ; Times: 1
+	Query: "house crow" ; Times: 1
+	Query: "sedge wren" ; Times: 1
+	Query: "Grus canadensis" ; Times: 1
+	Query: "Greater Prairie Chicken Egg" ; Times: 1
+	Query: "vntype:specimen hasmedia:1" ; Times: 1
+	Query: "willow flycatcher" ; Times: 3
+	Query: "county:&#34;refugio&#34; stateprovince:&#34;texas&#34; recordedby:carroll" ; Times: 1
+	Query: "Owls" ; Times: 1
+	Query: "specificepithet:falcinellus genus:Plegadis stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "northern flicker" ; Times: 2
+	Query: "cathartes" ; Times: 1
+	Query: "class:aves stateprovince:&#34;michigan&#34;" ; Times: 1
+	Query: "dickcissel" ; Times: 2
+	Query: "mimus vntype:specimen hasmedia:1" ; Times: 1
+	Query: "specificepithet:tricolor genus:Agelaius stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "genus:Passer stateprovince:&#34;Illinois&#34;" ; Times: 1
+	Query: "Western Meadowlark" ; Times: 2
+	Query: "gbifdatasetid:fda9a8f8-6342-4f73-8c3b-8b79e62afc9d" ; Times: 1
+	Query: "mimus polyglottos vntype:specimen hasmedia:1" ; Times: 1
+	Query: "psaltriparus egg" ; Times: 2
+	Query: "vntype:specimen stateprovince:&#34;Pennsylvania&#34; (petechia) basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:mycteria class:aves hasmedia:1" ; Times: 1
+	Query: "Black Capped Chickadee" ; Times: 1
+	Query: "Greater Prairie Chicken" ; Times: 2
+	Query: "Phalaropus lobatus" ; Times: 1
+	Query: "MARSH HARRIER" ; Times: 1
+	Query: "greater prairie chicken" ; Times: 3
+	Query: "newfoundland" ; Times: 1
+	Query: "Horned lark" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 14 (out of 853 download events in this period)
+Total number of records downloaded: 87
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 9
+	Country: Canada ; Times: 1
+	Country: Guadeloupe ; Times: 3
+	Country: India ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-03-09 ; Times: 1
+	Date: 2020-03-04 ; Times: 1
+	Date: 2020-03-05 ; Times: 3
+	Date: 2020-03-23 ; Times: 1
+	Date: 2020-03-06 ; Times: 1
+	Date: 2020-03-12 ; Times: 2
+	Date: 2020-03-03 ; Times: 1
+	Date: 2020-03-11 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "dickcissel" ; Times: 1
+	Query: "specificepithet:tricolor genus:Agelaius stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "&#34;Columba leucocephala&#34; OR &#34;Patagioenas leucocephala&#34; vntype:specimen" ; Times: 3
+	Query: "Pitangus sulphuratus stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "house crow" ; Times: 1
+	Query: "genus:Baeolophus stateprovince:&#34;Texas&#34; year &lt;= 1950" ; Times: 1
+	Query: "tringa semipalmata" ; Times: 1
+	Query: "specificepithet:amoena genus:Passerina" ; Times: 2
+	Query: "genus:Passerina basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:cyanea genus:Passerina" ; Times: 1
+	Query: "northern flicker" ; Times: 1
+
+
+End of report.
