@@ -1,0 +1,179 @@
+Report for Institution Code CHAS, Resource chas_eggsnest
+Usage stats for February 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 125
+Number of records retrieved in searches: 927
+Number of different countries where searches have been originated: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 4
+	Country: United States ; Times: 104
+	Country: Australia ; Times: 1
+	Country: Mexico ; Times: 3
+	Country: Unknown ; Times: 4
+	Country: India ; Times: 1
+	Country: United Kingdom ; Times: 4
+	Country: Belgium ; Times: 1
+	Country: Argentina ; Times: 2
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-02-04 ; Times: 3
+	Date: 2020-02-23 ; Times: 5
+	Date: 2020-02-24 ; Times: 7
+	Date: 2020-02-03 ; Times: 5
+	Date: 2020-02-26 ; Times: 13
+	Date: 2020-02-27 ; Times: 3
+	Date: 2020-02-06 ; Times: 2
+	Date: 2020-02-21 ; Times: 11
+	Date: 2020-02-22 ; Times: 3
+	Date: 2020-02-05 ; Times: 4
+	Date: 2020-02-28 ; Times: 3
+	Date: 2020-02-11 ; Times: 1
+	Date: 2020-02-10 ; Times: 6
+	Date: 2020-02-13 ; Times: 15
+	Date: 2020-02-12 ; Times: 9
+	Date: 2020-02-15 ; Times: 1
+	Date: 2020-02-14 ; Times: 5
+	Date: 2020-02-17 ; Times: 4
+	Date: 2020-02-16 ; Times: 2
+	Date: 2020-02-19 ; Times: 3
+	Date: 2020-02-18 ; Times: 3
+	Date: 2020-02-25 ; Times: 11
+	Date: 2020-02-20 ; Times: 3
+	Date: 2020-02-07 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "merganser" ; Times: 1
+	Query: "Passenger Pigeon" ; Times: 2
+	Query: "NA NA" ; Times: 3
+	Query: "Calcarius AND (lapponicus)" ; Times: 1
+	Query: "vntype:specimen class:aves country:&#34;United States&#34; recordedby:Walker year &gt;= 1890 year &lt;= 1912" ; Times: 1
+	Query: "specificepithet:delawarensis genus:Larus" ; Times: 1
+	Query: "recordedby:&#34;W. Day&#34;" ; Times: 1
+	Query: "black-legged kittiwake" ; Times: 2
+	Query: "passer domesticus year &gt;= 1700 year &lt;= 1929" ; Times: 1
+	Query: "catalognumber:1392" ; Times: 1
+	Query: "genus:Geococcyx" ; Times: 1
+	Query: "country:&#34;Mexico&#34; hasmedia:1" ; Times: 1
+	Query: "genus:Brachyramphus class:aves stateprovince:&#34;alaska&#34;" ; Times: 1
+	Query: "Rallus limicola" ; Times: 1
+	Query: "vntype:specimen class:aves county:&#34;clackamas&#34; stateprovince:&#34;oregon&#34; country:&#34;United States&#34; recordedby:alexander walker" ; Times: 1
+	Query: "vntype:specimen class:aves country:&#34;United States&#34; recordedby:Walker year &gt;= 1890 year &lt;= 1911" ; Times: 1
+	Query: "stateprovince:&#34;Scotland&#34;" ; Times: 1
+	Query: "Alaska museum" ; Times: 1
+	Query: "hasmedia:1" ; Times: 2
+	Query: "specificepithet:urophasianus genus:Centrocercus class:Aves basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:varia genus:strix" ; Times: 6
+	Query: "elf" ; Times: 1
+	Query: "class:Aves stateprovince:&#34;Pennsylvania&#34;" ; Times: 1
+	Query: "class:aves catalognumber:755" ; Times: 1
+	Query: "vntype:specimen specificepithet:alba genus:Ardea class:aves country:&#34;United States&#34;" ; Times: 4
+	Query: "vntype:specimen specificepithet:domesticus genus:passer" ; Times: 1
+	Query: "specificepithet:antillarum class:Aves continent:North America" ; Times: 1
+	Query: "phoenicopterus ruber" ; Times: 2
+	Query: "bird egg vntype:specimen class:aves stateprovince:&#34;oregon&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "Grus canadensis" ; Times: 1
+	Query: "class:aves stateprovince:&#34;oregon&#34; recordedby:walker" ; Times: 1
+	Query: "passer domesticus year &gt;= 1700 year &lt;= 1900" ; Times: 1
+	Query: "anas discors" ; Times: 2
+	Query: "Osprey" ; Times: 1
+	Query: "prairie chicken" ; Times: 3
+	Query: "Dumetella carolinensis" ; Times: 1
+	Query: "vntype:specimen specificepithet:domesticus genus:passer institutioncode:CHAS" ; Times: 1
+	Query: "passenger pigeon" ; Times: 5
+	Query: "Calcarius lapponicus" ; Times: 2
+	Query: "Laurent" ; Times: 1
+	Query: "great egret" ; Times: 1
+	Query: "eastern phoebe" ; Times: 1
+	Query: "casmerodius albus" ; Times: 1
+	Query: "vntype:specimen specificepithet:Domesticus genus:Passer year &gt;= 1951 year &lt;= 2020 institutioncode:CHAS" ; Times: 1
+	Query: "gbifdatasetid:fda9a8f8-6342-4f73-8c3b-8b79e62afc9d" ; Times: 2
+	Query: "florida museum" ; Times: 1
+	Query: "vntype:specimen specificepithet:domesticus genus:passer year &gt;= 1900 year &lt;= 1950 institutioncode:CHAS" ; Times: 1
+	Query: "Prothonotary Warbler" ; Times: 3
+	Query: "EG-54" ; Times: 1
+	Query: "egg falco peregrinus" ; Times: 1
+	Query: "vntype:specimen class:aves stateprovince:&#34;oregon&#34; country:&#34;United States&#34;" ; Times: 4
+	Query: "vntype:specimen class:aves stateprovince:&#34;oregon&#34; recordedby:Alexander Walker" ; Times: 2
+	Query: "witch" ; Times: 2
+	Query: "long-tailed duck" ; Times: 1
+	Query: "vntype:specimen genus:Protonotaria" ; Times: 1
+	Query: "american egret" ; Times: 1
+	Query: "cathartidae" ; Times: 1
+	Query: "great Auk" ; Times: 1
+	Query: "Fratercula" ; Times: 1
+	Query: "northern cardinal" ; Times: 4
+	Query: "Buteo albicaudatus" ; Times: 1
+	Query: "vntype:specimen class:aves country:&#34;United States&#34; recordedby:Walker" ; Times: 1
+	Query: "1625" ; Times: 1
+	Query: "atlantic puffin" ; Times: 4
+	Query: "king eider" ; Times: 1
+	Query: "downy woodpecker" ; Times: 1
+	Query: "western meadowlark" ; Times: 1
+	Query: "class:aves stateprovince:&#34;wyoming&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:domesticus genus:passer year &gt;= 1700 year &lt;= 1929" ; Times: 1
+	Query: "vntype:specimen class:aves stateprovince:&#34;oregon&#34; recordedby:alexander walker year &gt;= 1911 year &lt;= 1913" ; Times: 1
+	Query: "vntype:specimen specificepithet:domesticus genus:passer year &gt;= 1700 year &lt;= 1899" ; Times: 2
+	Query: "catalognumber:1625" ; Times: 1
+	Query: "passer domesticus specificepithet:domesticus genus:passer year &gt;= 1700 year &lt;= 1929" ; Times: 1
+	Query: "vntype:specimen specificepithet:domesticus genus:passer year &gt;= 1700 year &lt;= 1900" ; Times: 2
+	Query: "vireo bellii" ; Times: 1
+	Query: "catalognumber:832" ; Times: 1
+	Query: "utah museum" ; Times: 2
+	Query: "eastern screech owl" ; Times: 1
+	Query: "Wood duck" ; Times: 3
+	Query: "EG 54" ; Times: 1
+	Query: "alex walker" ; Times: 1
+	Query: "vntype:specimen specificepithet:domesticus genus:passer year &gt;= 1700 year &lt;= 1899 institutioncode:CHAS" ; Times: 2
+	Query: "belted kingfisher" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 20 (out of 1023 download events in this period)
+Total number of records downloaded: 1016
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: United States ; Times: 18
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-02-27 ; Times: 2
+	Date: 2020-02-10 ; Times: 1
+	Date: 2020-02-12 ; Times: 1
+	Date: 2020-02-25 ; Times: 2
+	Date: 2020-02-13 ; Times: 2
+	Date: 2020-02-01 ; Times: 1
+	Date: 2020-02-06 ; Times: 2
+	Date: 2020-02-21 ; Times: 1
+	Date: 2020-02-04 ; Times: 1
+	Date: 2020-02-05 ; Times: 2
+	Date: 2020-02-18 ; Times: 1
+	Date: 2020-02-08 ; Times: 1
+	Date: 2020-02-28 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "order:passeriformes hasmass:1" ; Times: 1
+	Query: "Passenger Pigeon" ; Times: 2
+	Query: "Tyto alba" ; Times: 1
+	Query: "Grus canadensis" ; Times: 1
+	Query: "specificepithet:urophasianus genus:Centrocercus class:Aves basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "specificepithet:varia genus:strix" ; Times: 1
+	Query: "class:Aves" ; Times: 1
+	Query: "athene cunicularia" ; Times: 1
+	Query: "vntype:specimen specificepithet:domesticus genus:passer" ; Times: 1
+	Query: "vntype:specimen specificepithet:domesticus genus:passer year &gt;= 1700 year &lt;= 1900" ; Times: 1
+	Query: "bushtit" ; Times: 1
+	Query: "country:&#34;Mexico&#34;" ; Times: 1
+	Query: "distance(location,geopoint(33.00721728873146,-116.82047633587615))&lt;47696" ; Times: 1
+	Query: "vntype:specimen class:aves stateprovince:&#34;oregon&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "louisiana" ; Times: 1
+	Query: "class:Aves county:&#34;Riverside&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "county:&#34;Riverside&#34; stateprovince:&#34;California&#34;" ; Times: 2
+
+
+End of report.
