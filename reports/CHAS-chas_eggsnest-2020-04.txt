@@ -1,0 +1,351 @@
+Report for Institution Code CHAS, Resource chas_eggsnest
+Usage stats for April 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 788
+Number of records retrieved in searches: 10337
+Number of different countries where searches have been originated: 14
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 5
+	Country: United States ; Times: 200
+	Country: Romania ; Times: 4
+	Country: Netherlands ; Times: 1
+	Country: Mexico ; Times: 1
+	Country: Egypt ; Times: 8
+	Country: Unknown ; Times: 5
+	Country: India ; Times: 7
+	Country: France ; Times: 2
+	Country: United Kingdom ; Times: 548
+	Country: Germany ; Times: 1
+	Country: Jordan ; Times: 1
+	Country: Brazil ; Times: 1
+	Country: Spain ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-04-21 ; Times: 161
+	Date: 2020-04-05 ; Times: 1
+	Date: 2020-04-22 ; Times: 7
+	Date: 2020-04-23 ; Times: 15
+	Date: 2020-04-20 ; Times: 11
+	Date: 2020-04-07 ; Times: 213
+	Date: 2020-04-26 ; Times: 26
+	Date: 2020-04-01 ; Times: 3
+	Date: 2020-04-02 ; Times: 4
+	Date: 2020-04-03 ; Times: 84
+	Date: 2020-04-28 ; Times: 36
+	Date: 2020-04-29 ; Times: 25
+	Date: 2020-04-08 ; Times: 52
+	Date: 2020-04-09 ; Times: 2
+	Date: 2020-04-27 ; Times: 28
+	Date: 2020-04-24 ; Times: 3
+	Date: 2020-04-25 ; Times: 19
+	Date: 2020-04-19 ; Times: 3
+	Date: 2020-04-18 ; Times: 2
+	Date: 2020-04-12 ; Times: 1
+	Date: 2020-04-11 ; Times: 1
+	Date: 2020-04-17 ; Times: 19
+	Date: 2020-04-16 ; Times: 5
+	Date: 2020-04-15 ; Times: 4
+	Date: 2020-04-14 ; Times: 59
+	Date: 2020-04-30 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "Anas acuta" ; Times: 13
+	Query: "year &gt;= 1931 year &lt;= 1931 institutioncode:CHAS" ; Times: 1
+	Query: "year &gt;= 1932 year &lt;= 1950 institutioncode:CHAS" ; Times: 1
+	Query: "Stercorarius longicaudus" ; Times: 6
+	Query: "year &gt;= 1950 year &lt;= 1951 institutioncode:CHAS" ; Times: 1
+	Query: "Athene cunicularia floridana" ; Times: 1
+	Query: "Plegadis falcinellus Texas" ; Times: 1
+	Query: "class:Aves year &gt;= 1940 year &lt;= 1941 institutioncode:CHAS" ; Times: 1
+	Query: "class:Aves year &gt;= 1800 year &lt;= 2020 institutioncode:CHAS" ; Times: 1
+	Query: "Podilymbus podiceps" ; Times: 4
+	Query: "chicken" ; Times: 1
+	Query: "Aechmophorus occidentalis" ; Times: 3
+	Query: "Cygnus olor" ; Times: 10
+	Query: "class:aves year &gt;= 1940 year &lt;= 1945 institutioncode:CHAS" ; Times: 1
+	Query: "Sula dactylatra" ; Times: 3
+	Query: "Somateria mollissima" ; Times: 9
+	Query: "Zenaida macroura" ; Times: 3
+	Query: "elf" ; Times: 3
+	Query: "stateprovince:&#34;Georgia&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "Anas strepera" ; Times: 13
+	Query: "Larus marinus" ; Times: 5
+	Query: "vntype:specimen year &gt;= 1920 year &lt;= 1940 institutioncode:CHAS" ; Times: 2
+	Query: "year &gt;= 1940 year &lt;= 1941 institutioncode:CHAS" ; Times: 2
+	Query: "lake michigan" ; Times: 3
+	Query: "Gallinago gallinago" ; Times: 4
+	Query: "Rallus elegans" ; Times: 1
+	Query: "Pelecanus occidentalis" ; Times: 7
+	Query: "Archilochus colubris" ; Times: 2
+	Query: "Buteo albicaudatus" ; Times: 5
+	Query: "Meleagris gallopavo" ; Times: 2
+	Query: "Grus canadensis" ; Times: 4
+	Query: "Melospiza melodia" ; Times: 3
+	Query: "Euphagus cyanocephalus" ; Times: 2
+	Query: "Egretta thula Texas" ; Times: 1
+	Query: "Oceanodroma leucorhoa stateprovince:&#34;California&#34; hasmedia:1" ; Times: 2
+	Query: "Anhinga anhinga" ; Times: 2
+	Query: "Icterus galbula" ; Times: 4
+	Query: "county:&#34;cook&#34; year &gt;= 1935 year &lt;= 1940 institutioncode:CHAS" ; Times: 1
+	Query: "Buteo jamaicensis" ; Times: 4
+	Query: "genus:Bubo" ; Times: 1
+	Query: "Larus atricilla" ; Times: 6
+	Query: "stateprovince:&#34;Illinois&#34; year &lt;= 1985 institutioncode:CHAS" ; Times: 1
+	Query: "Buteo buteo" ; Times: 5
+	Query: "passerina cyanea vntype:specimen" ; Times: 1
+	Query: "Ardea herodias Texas" ; Times: 1
+	Query: "Puffinus griseus" ; Times: 3
+	Query: "Buteo swainsoni" ; Times: 4
+	Query: "class:aves year &gt;= 1940 year &lt;= 1949 institutioncode:CHAS" ; Times: 1
+	Query: "county:&#34;Cook&#34; stateprovince:&#34;Illinois&#34; year &gt;= 1800 year &lt;= 1900 institutioncode:CHAS" ; Times: 2
+	Query: "county:&#34;cook&#34; year &gt;= 1920 year &lt;= 1925 institutioncode:CHAS" ; Times: 2
+	Query: "Cygnus columbianus" ; Times: 5
+	Query: "Phasianus colchicus" ; Times: 3
+	Query: "Ardea alba" ; Times: 9
+	Query: "Buteogallus anthracinus" ; Times: 4
+	Query: "Phalaropus lobatus" ; Times: 6
+	Query: "Sternula albifrons" ; Times: 3
+	Query: "Larus argentatus" ; Times: 5
+	Query: "county:&#34;cook&#34; year &gt;= 1900 year &lt;= 1905 institutioncode:CHAS" ; Times: 2
+	Query: "Turdus migratorius" ; Times: 13
+	Query: "Pluvialis dominica" ; Times: 2
+	Query: "year &gt;= 1900 year &lt;= 1920 institutioncode:CHAS" ; Times: 4
+	Query: "year &gt;= 1932 year &lt;= 1945 institutioncode:CHAS" ; Times: 1
+	Query: "year &gt;= 1890 year &lt;= 1893 institutioncode:CHAS" ; Times: 2
+	Query: "Great Crested Flycatcher" ; Times: 1
+	Query: "stateprovince:&#34;illinois&#34; year &gt;= 1920 year &lt;= 1922 institutioncode:CHAS" ; Times: 2
+	Query: "Osprey" ; Times: 1
+	Query: "Turdus Iliacus" ; Times: 3
+	Query: "year &gt;= 1920 year &lt;= 1922 institutioncode:CHAS" ; Times: 1
+	Query: "Corvus corax" ; Times: 9
+	Query: "Phoenicopterus ruber" ; Times: 6
+	Query: "Coccyzus erythropthalmus" ; Times: 2
+	Query: "year &gt;= 1920 year &lt;= 1925 institutioncode:CHAS" ; Times: 2
+	Query: "year &gt;= 1965 year &lt;= 1985 institutioncode:CHAS" ; Times: 1
+	Query: "Rallus limicola" ; Times: 1
+	Query: "year &gt;= 1920 year &lt;= 1921 institutioncode:CHAS" ; Times: 1
+	Query: "American Kestrel" ; Times: 1
+	Query: "Coragyps atratus" ; Times: 2
+	Query: "Larus delawarensis" ; Times: 6
+	Query: "Lake Ring" ; Times: 2
+	Query: "chicago" ; Times: 1
+	Query: "year &gt;= 1930 year &lt;= 1932 institutioncode:CHAS" ; Times: 1
+	Query: "year &gt;= 1922 institutioncode:CHAS" ; Times: 1
+	Query: "Turdus iliacus" ; Times: 10
+	Query: "year &gt;= 1940 year &lt;= 1946 institutioncode:CHAS" ; Times: 3
+	Query: "county:&#34;cook&#34; year &gt;= 1930 year &lt;= 1935 institutioncode:CHAS" ; Times: 1
+	Query: "Axis axis" ; Times: 2
+	Query: "Serinus canaria" ; Times: 3
+	Query: "cathartes hasmedia:1" ; Times: 2
+	Query: "Gallinago delicata" ; Times: 5
+	Query: "red-winged blackbird" ; Times: 1
+	Query: "Buteo lineatus" ; Times: 7
+	Query: "Nagozruk" ; Times: 2
+	Query: "spotted crake" ; Times: 2
+	Query: "Aythya americana" ; Times: 4
+	Query: "Anas platyrhynchos" ; Times: 12
+	Query: "rose-breasted grosbeak" ; Times: 2
+	Query: "ruffed grouse" ; Times: 1
+	Query: "Pluvialis apricaria" ; Times: 1
+	Query: "year &gt;= 1890 year &lt;= 1895 institutioncode:CHAS" ; Times: 3
+	Query: "specificepithet:virginianus genus:Bubo" ; Times: 1
+	Query: "witch" ; Times: 1
+	Query: "Podiceps nigricollis" ; Times: 3
+	Query: "Rynchops niger" ; Times: 6
+	Query: "year &gt;= 1870 year &lt;= 1885 institutioncode:CHAS" ; Times: 1
+	Query: "Aethia cristatella" ; Times: 6
+	Query: "year &gt;= 1910 year &lt;= 1911 institutioncode:CHAS" ; Times: 2
+	Query: "Anas penelope" ; Times: 11
+	Query: "year &gt;= 1890 year &lt;= 1891 institutioncode:CHAS" ; Times: 2
+	Query: "Circus cyaneus" ; Times: 4
+	Query: "year &gt;= 1920 year &lt;= 1940 institutioncode:CHAS" ; Times: 4
+	Query: "year &gt;= 1874 year &lt;= 1878 institutioncode:CHAS" ; Times: 5
+	Query: "caprimulgus" ; Times: 1
+	Query: "Haematopus ostralegus" ; Times: 2
+	Query: "Rissa tridactyla" ; Times: 6
+	Query: "common grackle" ; Times: 1
+	Query: "Anser anser" ; Times: 10
+	Query: "Xema sabini" ; Times: 6
+	Query: "year &gt;= 1930 year &lt;= 1935 institutioncode:CHAS" ; Times: 2
+	Query: "Hirundo rustica" ; Times: 7
+	Query: "raccoon" ; Times: 1
+	Query: "year &gt;= 1914 year &lt;= 1915 institutioncode:CHAS" ; Times: 1
+	Query: "Aix sponsa" ; Times: 2
+	Query: "Rhea americana" ; Times: 3
+	Query: "Sturnus vulgaris" ; Times: 9
+	Query: "year &gt;= 1970 year &lt;= 1985 institutioncode:CHAS" ; Times: 6
+	Query: "year &gt;= 1900 year &lt;= 1905 institutioncode:CHAS" ; Times: 6
+	Query: "Motacilla alba" ; Times: 5
+	Query: "stateprovince:&#34;alberta&#34; recordedby:wilby" ; Times: 1
+	Query: "Phalacrocorax auritus" ; Times: 4
+	Query: "year &gt;= 1897 year &lt;= 1899 institutioncode:CHAS" ; Times: 1
+	Query: "pussy" ; Times: 1
+	Query: "A. cristatella" ; Times: 6
+	Query: "year &gt;= 1896 year &lt;= 1896 institutioncode:CHAS" ; Times: 3
+	Query: "Limnodromus scolopaceus" ; Times: 6
+	Query: "Pica pica" ; Times: 4
+	Query: "vntype:specimen genus:Bubo" ; Times: 1
+	Query: "weather" ; Times: 1
+	Query: "year &gt;= 2017 year &lt;= 2020 institutioncode:CHAS" ; Times: 1
+	Query: "Anas clypeata" ; Times: 13
+	Query: "Nagozruk 1928" ; Times: 7
+	Query: "year &gt;= 1901 year &lt;= 1906 institutioncode:CHAS" ; Times: 1
+	Query: "Nyctanassa violacea Texas" ; Times: 1
+	Query: "year &gt;= 1930 year &lt;= 1940 institutioncode:CHAS" ; Times: 1
+	Query: "Fulica atra" ; Times: 3
+	Query: "Phalaropus tricolor" ; Times: 5
+	Query: "Fregata aquila" ; Times: 3
+	Query: "Branta canadensis" ; Times: 5
+	Query: "Orkney egg" ; Times: 2
+	Query: "Spinus tristis" ; Times: 1
+	Query: "black-headed grosbeak" ; Times: 2
+	Query: "Scolopax rusticola" ; Times: 5
+	Query: "year &gt;= 1978 year &lt;= 1985 institutioncode:CHAS" ; Times: 1
+	Query: "year &gt;= 1950 year &lt;= 1953 institutioncode:CHAS" ; Times: 2
+	Query: "Cygnus cygnus" ; Times: 9
+	Query: "Poecile atricapilla" ; Times: 4
+	Query: "Gallinula chloropus" ; Times: 5
+	Query: "Chordeiles minor" ; Times: 4
+	Query: "Gallus gallus" ; Times: 2
+	Query: "year &gt;= 1950 year &lt;= 1955 institutioncode:CHAS" ; Times: 4
+	Query: "vntype:specimen year &gt;= 1900 year &lt;= 1910 institutioncode:CHAS" ; Times: 1
+	Query: "Bubo virginianus texas" ; Times: 1
+	Query: "least bittern minnesota" ; Times: 1
+	Query: "gallus" ; Times: 1
+	Query: "Cory Island" ; Times: 1
+	Query: "county:&#34;cook&#34; year &gt;= 1940 year &lt;= 1945 institutioncode:CHAS" ; Times: 2
+	Query: "Passerina amoena" ; Times: 8
+	Query: "Buteo regalis" ; Times: 4
+	Query: "Aramus guarauna" ; Times: 4
+	Query: "Phalacrocorax carbo" ; Times: 4
+	Query: "Eudocimus albus" ; Times: 4
+	Query: "Fulica americana" ; Times: 3
+	Query: "Egretta tricolor Texas" ; Times: 1
+	Query: "year &gt;= 1975 institutioncode:CHAS" ; Times: 2
+	Query: "year &gt;= 1932 institutioncode:CHAS" ; Times: 1
+	Query: "Fregata magnificens" ; Times: 3
+	Query: "ring-necked pheasant" ; Times: 2
+	Query: "Buteo platypterus" ; Times: 7
+	Query: "Sturnella magna" ; Times: 2
+	Query: "Sturnella neglecta" ; Times: 2
+	Query: "blackbird" ; Times: 1
+	Query: "year &gt;= 1900 year &lt;= 1901 institutioncode:CHAS" ; Times: 1
+	Query: "Egretta rufescens Texas" ; Times: 1
+	Query: "Carduelis carduelis" ; Times: 3
+	Query: "year &gt;= 1895 year &lt;= 1896 institutioncode:CHAS" ; Times: 3
+	Query: "Sternula antillarum" ; Times: 6
+	Query: "Agelaius phoeniceus" ; Times: 3
+	Query: "year &gt;= 1910 year &lt;= 1915 institutioncode:CHAS" ; Times: 4
+	Query: "indigo bunting" ; Times: 3
+	Query: "institutioncode:CHAS" ; Times: 3
+	Query: "year &gt;= 1891 year &lt;= 1891 institutioncode:CHAS" ; Times: 1
+	Query: "year &gt;= 1950 year &lt;= 1954 institutioncode:CHAS" ; Times: 1
+	Query: "Ortalis vetula" ; Times: 3
+	Query: "Larus crassirostris" ; Times: 6
+	Query: "Icteria virens" ; Times: 2
+	Query: "Anser" ; Times: 1
+	Query: "Columba livia" ; Times: 3
+	Query: "Vireo olivaceus" ; Times: 1
+	Query: "Piranga olivacea" ; Times: 5
+	Query: "Molothrus ater" ; Times: 2
+	Query: "Tachycineta bicolor" ; Times: 3
+	Query: "hasmedia:1" ; Times: 5
+	Query: "year &gt;= 1930 year &lt;= 1960 institutioncode:CHAS hastypestatus:1" ; Times: 1
+	Query: "Corvus cryptoleucus" ; Times: 9
+	Query: "Spinus pinus" ; Times: 3
+	Query: "Regulus regulus" ; Times: 3
+	Query: "Plectrophenax nivalis" ; Times: 3
+	Query: "Scolopax" ; Times: 1
+	Query: "Buteo albonotatus" ; Times: 6
+	Query: "year &gt;= 1975 year &lt;= 1985 institutioncode:CHAS" ; Times: 3
+	Query: "Nycticorax nycticorax Texas" ; Times: 1
+	Query: "year &gt;= 1880 year &lt;= 1885 institutioncode:CHAS" ; Times: 2
+	Query: "Pheucticus melanocephalus" ; Times: 8
+	Query: "Pheucticus ludovicianus" ; Times: 9
+	Query: "grey owl" ; Times: 6
+	Query: "Troglodytes troglodytes" ; Times: 2
+	Query: "Passerina cyanea" ; Times: 2
+	Query: "Podiceps auritus" ; Times: 7
+	Query: "Rallus elegans elegans" ; Times: 1
+	Query: "bonasa umbellus" ; Times: 1
+	Query: "Indigo bunting" ; Times: 1
+	Query: "Quiscalus quiscula" ; Times: 2
+	Query: "Quiscalus mexicanus" ; Times: 1
+	Query: "hasmedia:1 " ; Times: 1
+	Query: "year &gt;= 1895 year &lt;= 1900 institutioncode:CHAS" ; Times: 6
+	Query: "vntype:specimen ring necked pheasant" ; Times: 1
+	Query: "year &gt;= 1920 year &lt;= 1930 institutioncode:CHAS" ; Times: 2
+	Query: "Ectopistes migratorius" ; Times: 3
+	Query: "year &gt;= 1900 year &lt;= 2020 institutioncode:CHAS hasmedia:1" ; Times: 3
+	Query: "Passer domesticus" ; Times: 8
+	Query: "county:&#34;cook&#34; year &gt;= 1900 year &lt;= 1985 institutioncode:CHAS" ; Times: 3
+	Query: "gbifdatasetid:fda9a8f8-6342-4f73-8c3b-8b79e62afc9d" ; Times: 8
+	Query: "parabuteo" ; Times: 1
+	Query: "Mergus merganser" ; Times: 5
+	Query: "Sitta pusilla" ; Times: 1
+	Query: "Zonotrichia leucophrys" ; Times: 3
+	Query: "Egretta caerulea Texas" ; Times: 1
+	Query: "year &gt;= 1905 year &lt;= 1906 institutioncode:CHAS" ; Times: 4
+	Query: "skunk" ; Times: 1
+	Query: "Charadrius hiaticula" ; Times: 1
+	Query: "year &gt;= 1941 year &lt;= 1945 institutioncode:CHAS" ; Times: 1
+	Query: "year &gt;= 1940 year &lt;= 1949 institutioncode:CHAS" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 27 (out of 1171 download events in this period)
+Total number of records downloaded: 179
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 26
+	Country: Chile ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-04-11 ; Times: 2
+	Date: 2020-04-17 ; Times: 1
+	Date: 2020-04-07 ; Times: 2
+	Date: 2020-04-15 ; Times: 2
+	Date: 2020-04-14 ; Times: 1
+	Date: 2020-04-22 ; Times: 1
+	Date: 2020-04-30 ; Times: 4
+	Date: 2020-04-20 ; Times: 1
+	Date: 2020-04-21 ; Times: 1
+	Date: 2020-04-27 ; Times: 2
+	Date: 2020-04-24 ; Times: 1
+	Date: 2020-04-29 ; Times: 9
+
+List of queries that retrieved data from the resource: 
+	Query: "Egretta rufescens Texas" ; Times: 1
+	Query: "Plegadis falcinellus Texas" ; Times: 1
+	Query: "Athene cunicularia" ; Times: 1
+	Query: "vntype:specimen genus:Bubo" ; Times: 1
+	Query: "Rallus elegans elegans" ; Times: 1
+	Query: "Rallus limicola" ; Times: 1
+	Query: "Nyctanassa violacea Texas" ; Times: 1
+	Query: "Tyto alba pratincola" ; Times: 1
+	Query: "Scolopax" ; Times: 1
+	Query: "Gallinago gallinago" ; Times: 1
+	Query: "Nycticorax nycticorax Texas" ; Times: 1
+	Query: "golden eagle" ; Times: 1
+	Query: "Aphelocoma californica" ; Times: 1
+	Query: "Rallus longirostris" ; Times: 1
+	Query: "Rallus crepitans" ; Times: 1
+	Query: "Passerina cyanea" ; Times: 1
+	Query: "Egretta thula Texas" ; Times: 1
+	Query: "specificepithet:virginianus genus:Bubo" ; Times: 1
+	Query: "Bubo virginianus texas" ; Times: 1
+	Query: "Athene cunicularia floridana" ; Times: 1
+	Query: "Plegadis chihi Texas" ; Times: 1
+	Query: "Ardea herodias Texas" ; Times: 1
+	Query: "Passerina amoena" ; Times: 1
+	Query: "Egretta tricolor Texas" ; Times: 1
+	Query: "Rallus elegans" ; Times: 1
+	Query: "Molothrus ater obscurus" ; Times: 1
+	Query: "Egretta caerulea Texas" ; Times: 1
+
+
+End of report.
