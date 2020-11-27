@@ -1,0 +1,264 @@
+Report for Institution Code CHAS, Resource chas_eggsnest
+Usage stats for October 2019, generated on 2019/11/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 286
+Number of records retrieved in searches: 2995
+Number of different countries where searches have been originated: 16
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 2
+	Country: Brazil ; Times: 10
+	Country: Israel ; Times: 4
+	Country: Netherlands ; Times: 1
+	Country: Mexico ; Times: 10
+	Country: Unknown ; Times: 16
+	Country: India ; Times: 4
+	Country: Costa Rica ; Times: 2
+	Country: France ; Times: 1
+	Country: United States ; Times: 192
+	Country: Albania ; Times: 2
+	Country: Germany ; Times: 3
+	Country: Peru ; Times: 3
+	Country: Puerto Rico ; Times: 1
+	Country: Belgium ; Times: 34
+	Country: Taiwan ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-10-09 ; Times: 26
+	Date: 2019-10-22 ; Times: 35
+	Date: 2019-10-21 ; Times: 2
+	Date: 2019-10-20 ; Times: 2
+	Date: 2019-10-26 ; Times: 6
+	Date: 2019-10-25 ; Times: 2
+	Date: 2019-10-24 ; Times: 24
+	Date: 2019-10-01 ; Times: 5
+	Date: 2019-10-03 ; Times: 6
+	Date: 2019-10-02 ; Times: 4
+	Date: 2019-10-05 ; Times: 1
+	Date: 2019-10-04 ; Times: 3
+	Date: 2019-10-07 ; Times: 37
+	Date: 2019-10-06 ; Times: 3
+	Date: 2019-10-23 ; Times: 13
+	Date: 2019-10-29 ; Times: 9
+	Date: 2019-10-18 ; Times: 2
+	Date: 2019-10-19 ; Times: 1
+	Date: 2019-10-12 ; Times: 5
+	Date: 2019-10-13 ; Times: 1
+	Date: 2019-10-10 ; Times: 43
+	Date: 2019-10-11 ; Times: 4
+	Date: 2019-10-16 ; Times: 8
+	Date: 2019-10-31 ; Times: 10
+	Date: 2019-10-17 ; Times: 7
+	Date: 2019-10-15 ; Times: 14
+	Date: 2019-10-28 ; Times: 2
+	Date: 2019-10-30 ; Times: 11
+
+List of queries that retrieved data from the resource: 
+	Query: "Charadrius melodus 2008" ; Times: 1
+	Query: "buteo platypterus" ; Times: 2
+	Query: "class:Aves continent:Europe" ; Times: 2
+	Query: "yellow warbler" ; Times: 1
+	Query: "Puffinus opisthomelas AND Natividad and 1930" ; Times: 1
+	Query: "specificepithet:opisthomelas genus:Puffinus preparations:egg" ; Times: 1
+	Query: "chicken" ; Times: 1
+	Query: "chas virginia" ; Times: 1
+	Query: "blue winged teal" ; Times: 1
+	Query: "struthio egg" ; Times: 1
+	Query: "common quail" ; Times: 3
+	Query: "elf" ; Times: 3
+	Query: "specificepithet:americana genus:Grus" ; Times: 5
+	Query: "window" ; Times: 1
+	Query: "Falco sparverius stateprovince:&#34;Michigan&#34;" ; Times: 1
+	Query: "Sternula antillarum browni 2019" ; Times: 1
+	Query: "Sternula antillarum browni 2014" ; Times: 1
+	Query: "Rallus elegans" ; Times: 1
+	Query: "Sternula antillarum browni 2011" ; Times: 1
+	Query: "&#34;C. L. Field&#34; AND Baja" ; Times: 2
+	Query: "Meleagris gallopavo" ; Times: 1
+	Query: "Spinus tristis mappable:1" ; Times: 27
+	Query: "Vireo bellii pusillus 2011" ; Times: 1
+	Query: "Vireo bellii pusillus 2019" ; Times: 1
+	Query: "yellow-bellied sapsucker" ; Times: 1
+	Query: "gray vireo" ; Times: 1
+	Query: "Ammodramus maritimus" ; Times: 1
+	Query: "Phalacrocorax pelagicus AND Baja NOT Rossem" ; Times: 1
+	Query: "Charadrius melodus 1990" ; Times: 1
+	Query: "specificepithet:lecontei genus:Toxostoma" ; Times: 1
+	Query: "Salpinctes obsoletus" ; Times: 1
+	Query: "vntype:specimen specificepithet:platyrhynchos genus:Anas country:&#34;United States&#34; year &gt;= 1900 year &lt;= 1910" ; Times: 1
+	Query: "spoonbill" ; Times: 1
+	Query: "Sternula antillarum browni 1988" ; Times: 1
+	Query: "indigo bunting" ; Times: 1
+	Query: "institutioncode:CHAS" ; Times: 1
+	Query: "Falco sparverius stateprovince:&#34;Illinois&#34;" ; Times: 1
+	Query: "struthio" ; Times: 1
+	Query: "Coccyzus americanus 1996" ; Times: 1
+	Query: "genus:Ectopistes" ; Times: 1
+	Query: "&#34;Coturnix coturnix&#34;" ; Times: 1
+	Query: "specificepithet:swainsoni genus:buteo year &lt;= 1955 month &gt;= 4 month &lt;= 8" ; Times: 1
+	Query: "Xema sabini continent:America" ; Times: 2
+	Query: "Charadrius melodus 1988" ; Times: 1
+	Query: "middlesex county" ; Times: 2
+	Query: "Phalacrocorax pelagicus AND Baja NOT Rossem NOT Hazelwood" ; Times: 1
+	Query: "Phalacrocorax pelagicus AND Baja" ; Times: 1
+	Query: "black-throated green" ; Times: 1
+	Query: "Poecile rufescens California Humboldt County" ; Times: 1
+	Query: "Vireo bellii pusillus 1988" ; Times: 1
+	Query: "Mourning dove" ; Times: 1
+	Query: "genus:Struthio" ; Times: 2
+	Query: "witch" ; Times: 1
+	Query: "Puffinus opisthomelas AND Natividad AND 1988" ; Times: 1
+	Query: "cactus wren" ; Times: 1
+	Query: "distance(location,geopoint(40.7463637403232,-105.116497784516))&lt;594922.666421315" ; Times: 42
+	Query: "Puffinus griseus AND Island" ; Times: 1
+	Query: "Puffinus opisthomelas AND Natividad AND 1930 AND Tyler" ; Times: 2
+	Query: "Coccyzus americanus 1984" ; Times: 1
+	Query: "distance(location,geopoint(40.7463637403232,-105.116497784516))&lt;594922.666421313" ; Times: 15
+	Query: "Coccyzus americanus 1989" ; Times: 1
+	Query: "Coccyzus americanus 1988" ; Times: 1
+	Query: "distance(location,geopoint(38.245377204844,-107.45914695031))&lt;521019.392285124" ; Times: 2
+	Query: "icterus icterus egg" ; Times: 1
+	Query: "raccoon" ; Times: 2
+	Query: "blue footed booby" ; Times: 1
+	Query: "corvus brachyrhynchos" ; Times: 1
+	Query: "Mycteria americana 1988" ; Times: 1
+	Query: "Phalacrocorax pelagicus AND Baja NOT Rossem NOT Hazelwood NOT Osburn" ; Times: 1
+	Query: "distance(location,geopoint(34.3968331473169,-119.471169108105))&lt;269545.637102603" ; Times: 9
+	Query: "Aphelocoma coerulescens 2011" ; Times: 1
+	Query: "Aphelocoma coerulescens 2016" ; Times: 1
+	Query: "Stercorariidae continent:North America" ; Times: 3
+	Query: "Aphelocoma coerulescens 2014" ; Times: 1
+	Query: "mimus polyglottos county:&#34;Riverside&#34;" ; Times: 1
+	Query: "Aphelocoma coerulescens 2019" ; Times: 2
+	Query: "bird egg" ; Times: 1
+	Query: "cats" ; Times: 1
+	Query: "Spinus tristis" ; Times: 1
+	Query: "prairie falcon" ; Times: 1
+	Query: "galbula" ; Times: 1
+	Query: "hasmedia:1 icterus icterus" ; Times: 1
+	Query: "Larus canus AND Island" ; Times: 1
+	Query: "Aphelocoma coerulescens 1988" ; Times: 1
+	Query: "albolarvatus Picoides" ; Times: 2
+	Query: "Sterna maxima AND Island" ; Times: 1
+	Query: "window class:Aves" ; Times: 3
+	Query: "Vermivora chrysoptera" ; Times: 1
+	Query: "Phalacrocorax pelagicus AND Baja NOT Adriaan" ; Times: 1
+	Query: "specificepithet:redivivum genus:toxostoma stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "ear" ; Times: 1
+	Query: "Buteo platypterus" ; Times: 1
+	Query: "Piranga rubra AND Island" ; Times: 1
+	Query: "Spinus tristis mappable:0" ; Times: 10
+	Query: "cow" ; Times: 1
+	Query: "pandion haliaetus" ; Times: 7
+	Query: "Phalacrocorax pelagicus AND Baja NOT Rossem NOT DeGreoot NOT Hazelwood NOT Osburn" ; Times: 1
+	Query: "párabuteo" ; Times: 1
+	Query: "Coccyzus americanus 2014" ; Times: 1
+	Query: "Coccyzus americanus 2011" ; Times: 1
+	Query: "barn swallow" ; Times: 1
+	Query: "Poecile carolinensis georgia" ; Times: 1
+	Query: "Coccyzus americanus 2019" ; Times: 2
+	Query: "Coccyzus americanus 2008" ; Times: 1
+	Query: "Cathartes aura" ; Times: 2
+	Query: "Coccyzus americanus 2000" ; Times: 1
+	Query: "Sternula antillarum" ; Times: 1
+	Query: "salpinctes" ; Times: 2
+	Query: "central michigan" ; Times: 1
+	Query: "hasmedia:1" ; Times: 6
+	Query: "Phalacrocorax pelagicus AND Baja NOT Rossem NOT DeGroot NOT Hazelwood NOT Osburn" ; Times: 1
+	Query: "buteo swainsoni" ; Times: 1
+	Query: "Mycteria americana 2019" ; Times: 1
+	Query: "Mycteria americana 2016" ; Times: 1
+	Query: "Mycteria americana 2014" ; Times: 1
+	Query: "family:Alcedinidae Long" ; Times: 1
+	Query: "Mycteria americana 2011" ; Times: 1
+	Query: "Charadrius melodus 2019" ; Times: 1
+	Query: "Charadrius melodus 2011" ; Times: 1
+	Query: "Passerina cyanea" ; Times: 1
+	Query: "Charadrius melodus 2016" ; Times: 1
+	Query: "Charadrius melodus 2015" ; Times: 1
+	Query: "Charadrius melodus 2014" ; Times: 1
+	Query: "Puffinus opisthomelas AND Natividad and 1924" ; Times: 1
+	Query: "vntype:specimen class:Aves stateprovince:&#34;Kansas&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "erythrorhynchos Pelecanus" ; Times: 12
+	Query: "hummingbird" ; Times: 1
+	Query: "Egretta tricolor AND Island" ; Times: 1
+	Query: "Toxostoma lecontei" ; Times: 1
+	Query: "Stercorariidae continent:America" ; Times: 3
+	Query: "gbifdatasetid:fda9a8f8-6342-4f73-8c3b-8b79e62afc9d" ; Times: 2
+	Query: "parabuteo" ; Times: 1
+	Query: "Sitta pusilla" ; Times: 1
+	Query: "Raine 1924" ; Times: 2
+	Query: "Salpinctes" ; Times: 1
+	Query: "Stercorariidae continent:America North" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 30 (out of 1308 download events in this period)
+Total number of records downloaded: 264
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 3
+	Country: Brazil ; Times: 1
+	Country: Unknown ; Times: 1
+	Country: United States ; Times: 23
+	Country: Germany ; Times: 1
+	Country: Peru ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-10-09 ; Times: 1
+	Date: 2019-10-23 ; Times: 1
+	Date: 2019-10-21 ; Times: 1
+	Date: 2019-10-19 ; Times: 1
+	Date: 2019-10-26 ; Times: 1
+	Date: 2019-10-24 ; Times: 1
+	Date: 2019-10-01 ; Times: 1
+	Date: 2019-10-05 ; Times: 1
+	Date: 2019-10-10 ; Times: 1
+	Date: 2019-10-11 ; Times: 4
+	Date: 2019-10-16 ; Times: 1
+	Date: 2019-10-17 ; Times: 4
+	Date: 2019-10-07 ; Times: 1
+	Date: 2019-10-31 ; Times: 1
+	Date: 2019-10-20 ; Times: 2
+	Date: 2019-10-04 ; Times: 1
+	Date: 2019-10-15 ; Times: 1
+	Date: 2019-10-28 ; Times: 1
+	Date: 2019-10-30 ; Times: 4
+	Date: 2019-10-29 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "buteo platypterus" ; Times: 1
+	Query: "stercorariidae" ; Times: 1
+	Query: "Salpinctes obsoletus" ; Times: 1
+	Query: "galbula" ; Times: 1
+	Query: "Sternula antillarum" ; Times: 1
+	Query: "colinus virginianus floridanus" ; Times: 1
+	Query: "birds" ; Times: 1
+	Query: "Falco sparverius vntype:specimen" ; Times: 1
+	Query: "specificepithet:cristatella genus:Aethia" ; Times: 1
+	Query: "Geothlypis philadelphia" ; Times: 1
+	Query: "genus:Ectopistes" ; Times: 1
+	Query: "tringa semipalmata" ; Times: 1
+	Query: "puffinus opisthomelas" ; Times: 1
+	Query: "prairie falcon" ; Times: 1
+	Query: "Falco sparverius stateprovince:&#34;Michigan&#34;" ; Times: 2
+	Query: "vntype:specimen specificepithet:hyemalis genus:junco" ; Times: 1
+	Query: "window class:Aves" ; Times: 1
+	Query: "Mourning dove" ; Times: 1
+	Query: "vntype:specimen class:Aves stateprovince:&#34;Nebraska&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "specificepithet:hyemalis genus:junco basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Falco sparverius stateprovince:&#34;Illinois&#34;" ; Times: 1
+	Query: "vntype:specimen class:Aves stateprovince:&#34;Kansas&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "toxostoma crissale" ; Times: 1
+	Query: "colinus virginianus" ; Times: 1
+	Query: "Toxostoma lecontei" ; Times: 1
+	Query: "Ammodramus maritimus" ; Times: 1
+	Query: "colinus virginianus texanus" ; Times: 1
+	Query: "genus:Calypte" ; Times: 1
+	Query: "Geothlypis trichas" ; Times: 1
+
+
+End of report.
