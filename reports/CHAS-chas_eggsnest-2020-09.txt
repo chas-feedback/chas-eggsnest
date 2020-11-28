@@ -1,0 +1,266 @@
+Report for Institution Code CHAS, Resource chas_eggsnest
+Usage stats for September 2020, generated on 2020/11/28
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 149
+Number of records retrieved in searches: 2817
+Number of different countries where searches have been originated: 13
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Canada ; Times: 8
+	Country: Netherlands ; Times: 4
+	Country: Colombia ; Times: 2
+	Country: Estonia ; Times: 2
+	Country: Singapore ; Times: 1
+	Country: Unknown ; Times: 1
+	Country: Mexico ; Times: 2
+	Country: United States ; Times: 62
+	Country: Sweden ; Times: 1
+	Country: Australia ; Times: 62
+	Country: Vietnam ; Times: 2
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-09-09 ; Times: 1
+	Date: 2020-09-08 ; Times: 4
+	Date: 2020-09-03 ; Times: 2
+	Date: 2020-09-02 ; Times: 3
+	Date: 2020-09-01 ; Times: 4
+	Date: 2020-09-06 ; Times: 3
+	Date: 2020-09-04 ; Times: 5
+	Date: 2020-09-21 ; Times: 33
+	Date: 2020-09-20 ; Times: 10
+	Date: 2020-09-23 ; Times: 18
+	Date: 2020-09-25 ; Times: 11
+	Date: 2020-09-24 ; Times: 17
+	Date: 2020-09-27 ; Times: 1
+	Date: 2020-09-26 ; Times: 1
+	Date: 2020-09-29 ; Times: 8
+	Date: 2020-09-28 ; Times: 3
+	Date: 2020-09-16 ; Times: 3
+	Date: 2020-09-14 ; Times: 4
+	Date: 2020-09-30 ; Times: 3
+	Date: 2020-09-10 ; Times: 3
+	Date: 2020-09-11 ; Times: 1
+	Date: 2020-09-13 ; Times: 4
+	Date: 2020-09-18 ; Times: 7
+
+List of queries that retrieved data from the resource: 
+	Query: "order:Pelecaniformes class:Aves preparations:Egg" ; Times: 1
+	Query: "egg specificepithet:migratorius genus:Turdus county:&#34;cook&#34; stateprovince:&#34;illinois&#34; year &gt;= 1920 year &lt;= 2020 month &gt;= 1 month &lt;= 12" ; Times: 2
+	Query: "order:Anseriformes class:Aves preparations:Egg" ; Times: 1
+	Query: "hirundo rustica" ; Times: 1
+	Query: "Egretta thula" ; Times: 5
+	Query: "Song Sparrow eggs" ; Times: 1
+	Query: "order:Cuculiformes class:Aves preparations:Egg" ; Times: 2
+	Query: "family:Tyrannidae class:Aves preparations:Egg" ; Times: 1
+	Query: "genus:Limnothlypis" ; Times: 2
+	Query: "Brooks" ; Times: 1
+	Query: "family:Laniidae class:Aves preparations:Egg" ; Times: 1
+	Query: "order:Passeriformes class:Aves preparations:Egg" ; Times: 1
+	Query: "white ash" ; Times: 1
+	Query: "camargo" ; Times: 2
+	Query: "order:Piciformes class:Aves preparations:Egg" ; Times: 1
+	Query: "eastern wood-pewee" ; Times: 2
+	Query: "order:Caprimulgiformes class:Aves preparations:Egg basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "country:&#34;Greenland&#34;" ; Times: 1
+	Query: "american robin" ; Times: 1
+	Query: "order:Rheiformes class:aves preparations:Egg" ; Times: 2
+	Query: "order:Coraciiformes class:Aves preparations:Egg" ; Times: 1
+	Query: "order:Struthioniformes class:aves preparations:Egg" ; Times: 2
+	Query: "Falco peregrinus" ; Times: 2
+	Query: "order:Phoenicopteriformes class:aves preparations:Egg" ; Times: 1
+	Query: "genus:Pitangus stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "order:Ciconiiformes class:aves preparations:Egg" ; Times: 1
+	Query: "egg vntype:specimen specificepithet:migratorius genus:Turdus year &gt;= 1920 year &lt;= 2020 month &gt;= 1 month &lt;= 12" ; Times: 1
+	Query: "order:Charadriiformes class:Aves preparations:Egg" ; Times: 2
+	Query: "order:Casuariiformes class:Aves preparations:Egg" ; Times: 1
+	Query: "Toxostoma rufum" ; Times: 1
+	Query: "order:Cuculiformes class:Aves preparations:Egg basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "family:Remizidae class:Aves preparations:Egg" ; Times: 1
+	Query: "class:aves preparations:Egg" ; Times: 3
+	Query: "order:Gruiformes class:Aves preparations:Egg" ; Times: 1
+	Query: "order:Rheiformes class:Aves preparations:Egg" ; Times: 1
+	Query: "order:Procellariiformes class:Aves preparations:Egg" ; Times: 1
+	Query: "order:Passeriformes class:aves preparations:Egg" ; Times: 1
+	Query: "order:Pelecaniformes class:aves preparations:Egg" ; Times: 1
+	Query: "egg specificepithet:migratorius genus:Turdus stateprovince:&#34;michigan&#34; year &gt;= 1920 year &lt;= 2020 month &gt;= 1 month &lt;= 12" ; Times: 1
+	Query: "order:Casuariiformes class:aves preparations:Egg" ; Times: 2
+	Query: "order:Strigiformes class:Aves preparations:Egg" ; Times: 1
+	Query: "ostrich" ; Times: 1
+	Query: "order:Podicipediformes class:aves preparations:Egg" ; Times: 2
+	Query: "preparations:nest" ; Times: 2
+	Query: "Hirundo rustica" ; Times: 1
+	Query: "blue footed booby" ; Times: 1
+	Query: "Chihuahuan Raven" ; Times: 3
+	Query: "order:Ciconiiformes class:Aves preparations:Egg" ; Times: 1
+	Query: "black rail" ; Times: 1
+	Query: "order:Accipitriformes class:aves preparations:Egg" ; Times: 2
+	Query: "family:Corvidae class:Aves preparations:Egg" ; Times: 1
+	Query: "egg specificepithet:cardinalis genus:cardinalis stateprovince:&#34;michigan&#34; month &gt;= 1 month &lt;= 12" ; Times: 1
+	Query: "family:Vireonidae class:Aves preparations:Egg" ; Times: 1
+	Query: "(fullerton)" ; Times: 1
+	Query: "erythrogaster" ; Times: 2
+	Query: "sturnus vulgaris" ; Times: 1
+	Query: "order:Columbiformes class:Aves preparations:Egg" ; Times: 1
+	Query: "carroll county" ; Times: 1
+	Query: "(Brachyramphus)" ; Times: 1
+	Query: "order:Procellariiformes class:aves preparations:Egg" ; Times: 1
+	Query: "egg specificepithet:cardinalis genus:cardinalis stateprovince:&#34;illinois&#34; month &gt;= 1 month &lt;= 12" ; Times: 1
+	Query: "order:cuculiformes class:Aves preparations:Egg" ; Times: 2
+	Query: "order:Galliformes class:Aves preparations:Egg" ; Times: 1
+	Query: "order:Gaviiformes class:aves preparations:Egg" ; Times: 1
+	Query: "order:Anseriformes class:aves preparations:Egg" ; Times: 4
+	Query: "egg specificepithet:migratorius genus:Turdus county:&#34;cook&#34; stateprovince:&#34;illinois&#34;" ; Times: 1
+	Query: "hastypestatus:1 hasmedia:1" ; Times: 2
+	Query: "x warbler" ; Times: 2
+	Query: "tympanuchus" ; Times: 1
+	Query: "Red winged blackbird" ; Times: 1
+	Query: "sitta pygmaea OR sitta pusilla" ; Times: 1
+	Query: "order:Phoenicopteriformes class:Aves preparations:Egg" ; Times: 1
+	Query: "order:Gaviiformes class:Aves preparations:Egg" ; Times: 1
+	Query: "scientificname:Cygnus buccinator" ; Times: 1
+	Query: "tree squirrels" ; Times: 1
+	Query: "barn swallow" ; Times: 1
+	Query: "vntype:specimen specificepithet:lomvia genus:Uria stateprovince:&#34;Alaska&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "genus:Picoides specificepithet:arcticus*" ; Times: 1
+	Query: "order:Caprimulgiformes class:Aves preparations:Egg" ; Times: 1
+	Query: "order:Struthioniformes class:Aves preparations:Egg" ; Times: 1
+	Query: "order:Podicipediformes class:Aves preparations:Egg" ; Times: 1
+	Query: "3064" ; Times: 1
+	Query: "CAS birds" ; Times: 1
+	Query: "Anthus rubescens" ; Times: 1
+	Query: "Bucephala" ; Times: 1
+	Query: "order:Falconiformes class:Aves preparations:Egg" ; Times: 2
+	Query: "order:Accipitriformes class:Aves preparations:Egg" ; Times: 1
+	Query: "hasmedia:1" ; Times: 4
+	Query: "egg specificepithet:cardinalis genus:cardinalis county:&#34;cook&#34; month &gt;= 1 month &lt;= 12" ; Times: 1
+	Query: "genus:Picoides" ; Times: 2
+	Query: "Plectrophenax nivalis" ; Times: 3
+	Query: "Osprey" ; Times: 3
+	Query: "common moorhen" ; Times: 3
+	Query: "order:Suliformes class:aves preparations:Egg" ; Times: 1
+	Query: "egg specificepithet:migratorius genus:Turdus stateprovince:&#34;Michigan&#34;" ; Times: 2
+	Query: "Poecile atricapillus" ; Times: 1
+	Query: "vntype:specimen hasmedia:1" ; Times: 3
+	Query: "setophaga" ; Times: 1
+	Query: "Spizella pusilla" ; Times: 1
+	Query: "Lark Bunting eggs" ; Times: 1
+	Query: "order:Galliformes class:aves preparations:Egg" ; Times: 2
+	Query: "order:Suliformes class:Aves preparations:Egg" ; Times: 1
+	Query: "family:Paridae class:Aves preparations:Egg" ; Times: 1
+	Query: "crested caracara" ; Times: 2
+	Query: "Gavia immer OR adamsii" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 79 (out of 976 download events in this period)
+Total number of records downloaded: 5408
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 2
+	Country: Netherlands ; Times: 7
+	Country: United Arab Emirates ; Times: 1
+	Country: United States ; Times: 18
+	Country: Australia ; Times: 48
+	Country: Unknown ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-09-14 ; Times: 1
+	Date: 2020-09-20 ; Times: 6
+	Date: 2020-09-23 ; Times: 10
+	Date: 2020-09-22 ; Times: 1
+	Date: 2020-09-10 ; Times: 1
+	Date: 2020-09-11 ; Times: 2
+	Date: 2020-09-13 ; Times: 7
+	Date: 2020-09-29 ; Times: 1
+	Date: 2020-09-28 ; Times: 5
+	Date: 2020-09-26 ; Times: 1
+	Date: 2020-09-18 ; Times: 1
+	Date: 2020-09-30 ; Times: 1
+	Date: 2020-09-09 ; Times: 1
+	Date: 2020-09-02 ; Times: 2
+	Date: 2020-09-21 ; Times: 26
+	Date: 2020-09-25 ; Times: 5
+	Date: 2020-09-04 ; Times: 2
+	Date: 2020-09-24 ; Times: 6
+
+List of queries that retrieved data from the resource: 
+	Query: "vntype:specimen specificepithet:lomvia genus:Uria country:&#34;Canada&#34;" ; Times: 1
+	Query: "genus:Picoides specificepithet:arcticus*" ; Times: 1
+	Query: "order:Pelecaniformes class:Aves preparations:Egg" ; Times: 1
+	Query: "order:Phoenicopteriformes class:aves preparations:Egg" ; Times: 1
+	Query: "genus:Picoides specificepithet:.*" ; Times: 4
+	Query: "hirundo rustica" ; Times: 1
+	Query: "family:Corvidae class:Aves preparations:Egg" ; Times: 1
+	Query: "order:Struthioniformes class:Aves preparations:Egg" ; Times: 1
+	Query: "order:Podicipediformes class:Aves preparations:Egg" ; Times: 1
+	Query: "family:Vireonidae class:Aves preparations:Egg" ; Times: 1
+	Query: "(Synthliboramphus)" ; Times: 1
+	Query: "order:Caprimulgiformes class:Aves preparations:Egg" ; Times: 1
+	Query: "order:Ciconiiformes class:aves preparations:Egg" ; Times: 1
+	Query: "Bucephala" ; Times: 1
+	Query: "order:Falconiformes class:Aves preparations:Egg" ; Times: 1
+	Query: "order:Charadriiformes class:Aves preparations:Egg" ; Times: 1
+	Query: "order:Accipitriformes class:Aves preparations:Egg" ; Times: 1
+	Query: "(Brachyramphus)" ; Times: 1
+	Query: "order:Columbiformes class:Aves preparations:Egg" ; Times: 1
+	Query: "order:Pelecaniformes class:aves preparations:Egg" ; Times: 1
+	Query: "sitta pygmaea OR sitta pusilla" ; Times: 1
+	Query: "order:Procellariiformes class:aves preparations:Egg" ; Times: 1
+	Query: "family:Tyrannidae class:Aves preparations:Egg" ; Times: 1
+	Query: "order:Cuculiformes class:Aves preparations:Egg basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "family:Remizidae class:Aves preparations:Egg" ; Times: 1
+	Query: "order:Anseriformes class:Aves preparations:Egg" ; Times: 1
+	Query: "order:Cuculiformes class:Aves preparations:Egg" ; Times: 1
+	Query: "genus:Calypte" ; Times: 1
+	Query: "specificepithet:amoena genus:Passerina month &gt;= 5 month &lt;= 8" ; Times: 1
+	Query: "Tympanuchus" ; Times: 1
+	Query: "Sialia" ; Times: 1
+	Query: "family:Laniidae class:Aves preparations:Egg" ; Times: 1
+	Query: "Catharus" ; Times: 1
+	Query: "order:Galliformes class:aves preparations:Egg" ; Times: 2
+	Query: "preparations:nest" ; Times: 1
+	Query: "family:Alcidae country:&#34;Mexico&#34; (Synthliboramphus OR Endomychura) AND (NOT Ptychoramphus)" ; Times: 1
+	Query: "order:Casuariiformes class:Aves preparations:Egg" ; Times: 1
+	Query: "order:Rheiformes class:Aves preparations:Egg" ; Times: 1
+	Query: "order:Suliformes class:aves preparations:Egg" ; Times: 1
+	Query: "egg specificepithet:migratorius genus:Turdus stateprovince:&#34;Michigan&#34;" ; Times: 1
+	Query: "Haematopus palliatus OR Haematopus bachmani" ; Times: 1
+	Query: "order:Accipitriformes class:aves preparations:Egg" ; Times: 2
+	Query: "genus:Picoides specificepithet:arcticus" ; Times: 1
+	Query: "class:Aves" ; Times: 1
+	Query: "order:Anseriformes class:aves preparations:Egg" ; Times: 2
+	Query: "Passer domesticus" ; Times: 1
+	Query: "order:Procellariiformes class:Aves preparations:Egg" ; Times: 1
+	Query: "Gavia immer OR adamsii" ; Times: 1
+	Query: "genus:Eremophila" ; Times: 1
+	Query: "order:Piciformes class:Aves preparations:Egg" ; Times: 1
+	Query: "order:Caprimulgiformes class:Aves preparations:Egg basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:arcticus genus:Picoides" ; Times: 1
+	Query: "order:Galliformes" ; Times: 1
+	Query: "order:Casuariiformes class:aves preparations:Egg" ; Times: 1
+	Query: "order:Gruiformes class:Aves preparations:Egg" ; Times: 1
+	Query: "order:Phoenicopteriformes class:Aves preparations:Egg" ; Times: 1
+	Query: "order:Rheiformes class:aves preparations:Egg" ; Times: 1
+	Query: "order:Suliformes class:Aves preparations:Egg" ; Times: 1
+	Query: "order:Strigiformes class:Aves preparations:Egg" ; Times: 1
+	Query: "order:Gaviiformes class:Aves preparations:Egg" ; Times: 1
+	Query: "order:Gaviiformes class:aves preparations:Egg" ; Times: 1
+	Query: "order:Coraciiformes class:Aves preparations:Egg" ; Times: 1
+	Query: "sturnus vulgaris" ; Times: 1
+	Query: "order:Struthioniformes class:aves preparations:Egg" ; Times: 1
+	Query: "order:Podicipediformes class:aves preparations:Egg" ; Times: 1
+	Query: "genus:Passerina" ; Times: 1
+	Query: "order:Galliformes class:Aves preparations:Egg" ; Times: 1
+	Query: "order:cuculiformes class:Aves preparations:Egg" ; Times: 2
+	Query: "order:Ciconiiformes class:Aves preparations:Egg" ; Times: 1
+	Query: "family:Paridae class:Aves preparations:Egg" ; Times: 1
+	Query: "ostrich" ; Times: 1
+	Query: "vntype:specimen specificepithet:lomvia genus:Uria stateprovince:&#34;Alaska&#34; country:&#34;United States&#34;" ; Times: 1
+
+
+End of report.
