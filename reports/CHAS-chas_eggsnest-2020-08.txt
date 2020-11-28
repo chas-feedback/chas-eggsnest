@@ -1,0 +1,168 @@
+Report for Institution Code CHAS, Resource chas_eggsnest
+Usage stats for August 2020, generated on 2020/11/28
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 130
+Number of records retrieved in searches: 883
+Number of different countries where searches have been originated: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 7
+	Country: United States ; Times: 70
+	Country: Peru ; Times: 1
+	Country: Portugal ; Times: 15
+	Country: India ; Times: 2
+	Country: United Kingdom ; Times: 33
+	Country: Ireland ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-08-06 ; Times: 20
+	Date: 2020-08-16 ; Times: 3
+	Date: 2020-08-14 ; Times: 4
+	Date: 2020-08-12 ; Times: 2
+	Date: 2020-08-11 ; Times: 1
+	Date: 2020-08-10 ; Times: 17
+	Date: 2020-08-31 ; Times: 2
+	Date: 2020-08-19 ; Times: 1
+	Date: 2020-08-18 ; Times: 4
+	Date: 2020-08-08 ; Times: 2
+	Date: 2020-08-01 ; Times: 1
+	Date: 2020-08-03 ; Times: 2
+	Date: 2020-08-04 ; Times: 4
+	Date: 2020-08-28 ; Times: 4
+	Date: 2020-08-07 ; Times: 5
+	Date: 2020-08-26 ; Times: 8
+	Date: 2020-08-27 ; Times: 1
+	Date: 2020-08-24 ; Times: 5
+	Date: 2020-08-25 ; Times: 3
+	Date: 2020-08-22 ; Times: 1
+	Date: 2020-08-23 ; Times: 2
+	Date: 2020-08-20 ; Times: 1
+	Date: 2020-08-21 ; Times: 37
+
+List of queries that retrieved data from the resource: 
+	Query: "Anas acuta" ; Times: 1
+	Query: "specificepithet:cardinalis genus:cardinalis" ; Times: 1
+	Query: "Stercorarius longicaudus" ; Times: 1
+	Query: "human" ; Times: 1
+	Query: "mappable:1 scientificname:Phasianus colchicus" ; Times: 1
+	Query: "elf" ; Times: 3
+	Query: "Anas strepera" ; Times: 1
+	Query: "Larus marinus" ; Times: 1
+	Query: "norway" ; Times: 1
+	Query: "mappable:1 scientificname:Cathartes aura" ; Times: 1
+	Query: "hasmass:1 haslength:1" ; Times: 1
+	Query: "Passerina cyanea ws OR wingspan OR wing+span" ; Times: 1
+	Query: "Bonasa umbellus" ; Times: 1
+	Query: "Egg collections" ; Times: 1
+	Query: "mappable:1 scientificname:Dolichonyx oryzivorus" ; Times: 1
+	Query: "Phasianus colchicus" ; Times: 1
+	Query: "worm-eating warbler egg" ; Times: 1
+	Query: "mappable:1 scientificname:Aythya valisineria" ; Times: 1
+	Query: "Larus argentatus" ; Times: 1
+	Query: "Brown-headed Nuthatch" ; Times: 4
+	Query: "Aethia cristatella" ; Times: 1
+	Query: "Falco peregrinus" ; Times: 4
+	Query: "Molothrus ater eggs" ; Times: 1
+	Query: "Corvus corax" ; Times: 1
+	Query: "Phoenicopterus ruber" ; Times: 1
+	Query: "egg vntype:specimen genus:aphelocoma basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Raine" ; Times: 1
+	Query: "vntype:specimen basisofrecord:PreservedSpecimen hasmedia:1" ; Times: 2
+	Query: "Turdus iliacus" ; Times: 1
+	Query: "Anas platyrhynchos" ; Times: 1
+	Query: "witch" ; Times: 3
+	Query: "motacilla flava" ; Times: 2
+	Query: "Rynchops niger" ; Times: 1
+	Query: "stateprovince:&#34;Connecticut&#34;" ; Times: 2
+	Query: "19285" ; Times: 1
+	Query: "mappable:1 scientificname:Columbina passerina" ; Times: 1
+	Query: "mappable:1 scientificname:Anas cyanoptera" ; Times: 1
+	Query: "Rissa tridactyla" ; Times: 1
+	Query: "Xema sabini" ; Times: 1
+	Query: "county:&#34;middlesex&#34; recordedby:giles" ; Times: 4
+	Query: "raccoon" ; Times: 2
+	Query: "Sturnus vulgaris" ; Times: 1
+	Query: "Motacilla alba" ; Times: 1
+	Query: "A. cristatella" ; Times: 1
+	Query: "mappable:1 scientificname:Grus canadensis" ; Times: 1
+	Query: "mappable:1 scientificname:Aix sponsa" ; Times: 1
+	Query: "Larus delawarensis" ; Times: 1
+	Query: "horned lark" ; Times: 8
+	Query: "Fulica atra" ; Times: 1
+	Query: "Eremophila alpestris" ; Times: 1
+	Query: "Poecile atricapilla" ; Times: 1
+	Query: "Gallinula chloropus" ; Times: 1
+	Query: "recordedby:sechrist preparations:egg" ; Times: 2
+	Query: "Horned Lark eggs" ; Times: 1
+	Query: "&#34;Fox Lake&#34; Illinois" ; Times: 1
+	Query: "barred owl" ; Times: 7
+	Query: "Numenius borealis" ; Times: 1
+	Query: "mappable:1 scientificname:Caracara plancus" ; Times: 1
+	Query: "specificepithet:lecontei genus:toxostoma" ; Times: 1
+	Query: "Phalacrocorax carbo" ; Times: 1
+	Query: "Eudocimus albus" ; Times: 1
+	Query: "mappable:1 scientificname:Coragyps atratus" ; Times: 1
+	Query: "mappable:1 scientificname:Xanthocephalus xanthocephalus" ; Times: 1
+	Query: "Haliaeetus leucocephalus 100" ; Times: 1
+	Query: "stateprovince:&#34;Minnesota&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "strix varia" ; Times: 2
+	Query: "Sternula antillarum" ; Times: 1
+	Query: "anous stolidus" ; Times: 2
+	Query: "Geococcyx californianus" ; Times: 1
+	Query: "Larus crassirostris" ; Times: 1
+	Query: "recordedby:Ruthven basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "ovenbird egg" ; Times: 3
+	Query: "shore lark" ; Times: 1
+	Query: "Piranga olivacea" ; Times: 1
+	Query: "mappable:1 scientificname:Parabuteo unicinctus" ; Times: 1
+	Query: "Illinois FOx Lake" ; Times: 1
+	Query: "mappable:1 scientificname:Platalea ajaja" ; Times: 1
+	Query: "Corvus cryptoleucus" ; Times: 1
+	Query: "mappable:1 scientificname:Buteo regalis" ; Times: 1
+	Query: "1890 Illinois" ; Times: 1
+	Query: "Regulus regulus" ; Times: 1
+	Query: "mappable:1 scientificname:Meleagris gallopavo" ; Times: 1
+	Query: "Ectopistes migratorius" ; Times: 1
+	Query: "cathartes" ; Times: 1
+	Query: "hummingbird" ; Times: 1
+	Query: "Northern Hawk Owl" ; Times: 1
+	Query: "Toxostoma lecontei" ; Times: 3
+	Query: "gbifdatasetid:fda9a8f8-6342-4f73-8c3b-8b79e62afc9d" ; Times: 2
+	Query: "owls" ; Times: 1
+	Query: "Phalacrocorax auritus" ; Times: 1
+	Query: "Anas clypeata" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 7 (out of 756 download events in this period)
+Total number of records downloaded: 29
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: United States ; Times: 4
+	Country: Australia ; Times: 1
+	Country: France ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-08-23 ; Times: 1
+	Date: 2020-08-16 ; Times: 1
+	Date: 2020-08-12 ; Times: 1
+	Date: 2020-08-06 ; Times: 1
+	Date: 2020-08-26 ; Times: 1
+	Date: 2020-08-24 ; Times: 1
+	Date: 2020-08-30 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Falco peregrinus" ; Times: 1
+	Query: "Northern Hawk Owl" ; Times: 1
+	Query: "alauda" ; Times: 1
+	Query: "specificepithet:impennis genus:pinguinus" ; Times: 1
+	Query: "vntype:specimen specificepithet:sandwichensis genus:Passerculus basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Warbling Vireo" ; Times: 1
+	Query: "class:Aves country:&#34;South Africa&#34; continent:Africa" ; Times: 1
+
+
+End of report.
