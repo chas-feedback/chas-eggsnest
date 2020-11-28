@@ -1,0 +1,132 @@
+Report for Institution Code CHAS, Resource chas_eggsnest
+Usage stats for July 2020, generated on 2020/11/28
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 122
+Number of records retrieved in searches: 794
+Number of different countries where searches have been originated: 17
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 2
+	Country: United States ; Times: 37
+	Country: Netherlands ; Times: 1
+	Country: Bangladesh ; Times: 1
+	Country: Mexico ; Times: 58
+	Country: Unknown ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: Malaysia ; Times: 3
+	Country: Sweden ; Times: 3
+	Country: Spain ; Times: 2
+	Country: Peru ; Times: 3
+	Country: Denmark ; Times: 2
+	Country: Sri Lanka ; Times: 1
+	Country: Japan ; Times: 1
+	Country: Argentina ; Times: 2
+	Country: Hong Kong ; Times: 3
+	Country: Ecuador ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-07-23 ; Times: 4
+	Date: 2020-07-08 ; Times: 2
+	Date: 2020-07-21 ; Times: 2
+	Date: 2020-07-20 ; Times: 1
+	Date: 2020-07-27 ; Times: 23
+	Date: 2020-07-24 ; Times: 2
+	Date: 2020-07-01 ; Times: 1
+	Date: 2020-07-03 ; Times: 5
+	Date: 2020-07-02 ; Times: 3
+	Date: 2020-07-04 ; Times: 3
+	Date: 2020-07-07 ; Times: 7
+	Date: 2020-07-29 ; Times: 1
+	Date: 2020-07-18 ; Times: 3
+	Date: 2020-07-19 ; Times: 2
+	Date: 2020-07-12 ; Times: 3
+	Date: 2020-07-13 ; Times: 1
+	Date: 2020-07-10 ; Times: 2
+	Date: 2020-07-30 ; Times: 2
+	Date: 2020-07-31 ; Times: 3
+	Date: 2020-07-15 ; Times: 4
+	Date: 2020-07-22 ; Times: 9
+	Date: 2020-07-28 ; Times: 38
+	Date: 2020-07-17 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "class:Aves country:&#34;Greenland&#34;" ; Times: 1
+	Query: "apple" ; Times: 1
+	Query: "mappable:1 year&gt;=1990 year&lt;=2019 month&gt;=1 month&lt;=12 day&gt;=1 day&lt;=1" ; Times: 1
+	Query: "bubo virginianus" ; Times: 2
+	Query: "class:Aves stateprovince:&#34;Pennsylvania&#34; month &gt;= 6 month &lt;= 7" ; Times: 2
+	Query: "chas" ; Times: 3
+	Query: "human" ; Times: 1
+	Query: "(Norway)" ; Times: 3
+	Query: "spinus tristis tristis" ; Times: 1
+	Query: "King snake" ; Times: 1
+	Query: "chipping sparrow eggs" ; Times: 1
+	Query: "2201" ; Times: 1
+	Query: "hasmedia:1" ; Times: 1
+	Query: "Ardea alba alba" ; Times: 1
+	Query: "elf" ; Times: 3
+	Query: "house sparrow" ; Times: 1
+	Query: "surinamensis" ; Times: 1
+	Query: "Corvus corax" ; Times: 2
+	Query: "genus:bubo" ; Times: 1
+	Query: "specificepithet:occidentalis" ; Times: 1
+	Query: "A-315" ; Times: 1
+	Query: "Thalasseus acuflavidus" ; Times: 2
+	Query: "megaceryle alcyon" ; Times: 3
+	Query: "northern cardinal" ; Times: 2
+	Query: "ruffed grouse" ; Times: 1
+	Query: "chipping sparrow nest and eggs" ; Times: 1
+	Query: "numenius americanus" ; Times: 1
+	Query: "vntype:specimen hasmedia:1" ; Times: 1
+	Query: "los angeles county museum" ; Times: 1
+	Query: "fratercula arctica" ; Times: 1
+	Query: "4567" ; Times: 2
+	Query: "Worm-eating warbler vntype:specimen" ; Times: 1
+	Query: "Greenland" ; Times: 1
+	Query: "spinus tristis" ; Times: 2
+	Query: "CHAS" ; Times: 1
+	Query: "grus canadensis" ; Times: 1
+	Query: "atlantic puffin" ; Times: 1
+	Query: "Townsend AND 1889" ; Times: 1
+	Query: "county:&#34;Maricopa&#34; stateprovince:&#34;Arizona&#34;" ; Times: 3
+	Query: "Centrocercus urophasianus" ; Times: 2
+	Query: "catalognumber:2201 year &gt;= 1932" ; Times: 1
+	Query: "vireo bellii" ; Times: 1
+	Query: "genus:Bubo" ; Times: 3
+	Query: "specificepithet:californicus genus:Larus stateprovince:&#34;California&#34; month &gt;= 5 month &lt;= 7" ; Times: 2
+	Query: "Sturnus vulgaris" ; Times: 57
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 9 (out of 940 download events in this period)
+Total number of records downloaded: 38
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 7
+	Country: Australia ; Times: 1
+	Country: Hong Kong ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-07-23 ; Times: 1
+	Date: 2020-07-22 ; Times: 3
+	Date: 2020-07-19 ; Times: 1
+	Date: 2020-07-10 ; Times: 1
+	Date: 2020-07-30 ; Times: 1
+	Date: 2020-07-07 ; Times: 1
+	Date: 2020-07-15 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "alauda arvensis" ; Times: 1
+	Query: "grus canadensis" ; Times: 1
+	Query: "Euphagus carolinus" ; Times: 1
+	Query: "northern cardinal" ; Times: 1
+	Query: "class:Aves stateprovince:&#34;Pennsylvania&#34; month &gt;= 6 month &lt;= 7" ; Times: 1
+	Query: "Centrocercus urophasianus" ; Times: 1
+	Query: "spinus tristis" ; Times: 1
+	Query: "specificepithet:californicus genus:Larus stateprovince:&#34;California&#34; month &gt;= 5 month &lt;= 7" ; Times: 2
+
+
+End of report.
