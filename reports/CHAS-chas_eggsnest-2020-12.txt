@@ -1,0 +1,216 @@
+Report for Institution Code CHAS, Resource chas_eggsnest
+Usage stats for December 2020, generated on 2021/01/06
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 178
+Number of records retrieved in searches: 2584
+Number of different countries where searches have been originated: 12
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Canada ; Times: 4
+	Country: Australia ; Times: 7
+	Country: Unknown ; Times: 42
+	Country: India ; Times: 6
+	Country: France ; Times: 3
+	Country: United Kingdom ; Times: 58
+	Country: Peru ; Times: 3
+	Country: Switzerland ; Times: 1
+	Country: Argentina ; Times: 1
+	Country: United States ; Times: 51
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-12-31 ; Times: 8
+	Date: 2020-12-08 ; Times: 5
+	Date: 2020-12-07 ; Times: 4
+	Date: 2020-12-06 ; Times: 8
+	Date: 2020-12-04 ; Times: 44
+	Date: 2020-12-03 ; Times: 5
+	Date: 2020-12-02 ; Times: 3
+	Date: 2020-12-01 ; Times: 5
+	Date: 2020-12-25 ; Times: 9
+	Date: 2020-12-27 ; Times: 2
+	Date: 2020-12-26 ; Times: 1
+	Date: 2020-12-21 ; Times: 2
+	Date: 2020-12-20 ; Times: 10
+	Date: 2020-12-23 ; Times: 2
+	Date: 2020-12-22 ; Times: 2
+	Date: 2020-12-29 ; Times: 7
+	Date: 2020-12-28 ; Times: 1
+	Date: 2020-12-18 ; Times: 1
+	Date: 2020-12-19 ; Times: 2
+	Date: 2020-12-10 ; Times: 6
+	Date: 2020-12-11 ; Times: 33
+	Date: 2020-12-12 ; Times: 2
+	Date: 2020-12-13 ; Times: 1
+	Date: 2020-12-14 ; Times: 6
+	Date: 2020-12-15 ; Times: 6
+	Date: 2020-12-16 ; Times: 1
+	Date: 2020-12-17 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "mappable:1 scientificname:Rynchops niger" ; Times: 1
+	Query: "genus:uria stateprovince:&#34;newfoundland&#34; country:&#34;canada&#34;" ; Times: 1
+	Query: "mallard" ; Times: 2
+	Query: "Podilymbus podiceps" ; Times: 1
+	Query: "Aechmophorus occidentalis" ; Times: 1
+	Query: "Cygnus olor" ; Times: 1
+	Query: "Somateria mollissima" ; Times: 1
+	Query: "elf" ; Times: 7
+	Query: "Anas strepera" ; Times: 1
+	Query: "mappable:1 scientificname:Arenaria interpres" ; Times: 1
+	Query: "Pelecanus occidentalis" ; Times: 1
+	Query: "Serinus canaria" ; Times: 1
+	Query: "stateprovince:&#34;Colorado&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "Buteo albicaudatus" ; Times: 1
+	Query: "Meleagris gallopavo" ; Times: 1
+	Query: "Pandion haliaetus" ; Times: 2
+	Query: "mappable:1 scientificname:Cathartes aura" ; Times: 1
+	Query: "Melospiza melodia" ; Times: 2
+	Query: "Euphagus cyanocephalus" ; Times: 2
+	Query: "mappable:1 scientificname:Nycticorax nycticorax" ; Times: 2
+	Query: "Dolichonyx oryzivorus" ; Times: 1
+	Query: "Turdus migratorius" ; Times: 1
+	Query: "vntype:specimen class:Aves recordedby:Dwight year &gt;= 1880 year &lt;= 1900" ; Times: 2
+	Query: "Puffinus griseus" ; Times: 1
+	Query: "Ovenbird" ; Times: 1
+	Query: "Cardinalis cardinalis" ; Times: 1
+	Query: "Cygnus columbianus" ; Times: 1
+	Query: "mappable:1 scientificname:Stelgidopteryx ruficollis" ; Times: 2
+	Query: "mappable:1 scientificname:Egretta thula" ; Times: 2
+	Query: "sterna paradisaea 1931" ; Times: 1
+	Query: "Falco peregrinus" ; Times: 2
+	Query: "genus:Poecile atricapillus" ; Times: 1
+	Query: "egg genus:Catharus" ; Times: 1
+	Query: "mappable:1 scientificname:Nyctanassa violacea" ; Times: 2
+	Query: "Fulica americana" ; Times: 1
+	Query: "migration" ; Times: 1
+	Query: "Agelaius phoeniceus" ; Times: 2
+	Query: "egg Tringa semipalmata" ; Times: 1
+	Query: "mappable:1 scientificname:Pitangus sulphuratus" ; Times: 1
+	Query: "Axis axis" ; Times: 1
+	Query: "Ring-billed Gull" ; Times: 1
+	Query: "Acanthis hornemanni" ; Times: 2
+	Query: "Icterus galbula" ; Times: 1
+	Query: "mappable:1 scientificname:Buteo albonotatus" ; Times: 1
+	Query: "Buteo lineatus" ; Times: 1
+	Query: "Sturnella neglecta" ; Times: 1
+	Query: "genus:uria country:&#34;canada&#34;" ; Times: 1
+	Query: "Campylorhynchus brunneicapillus" ; Times: 1
+	Query: "witch" ; Times: 2
+	Query: "Spiza americana" ; Times: 1
+	Query: "mappable:1 scientificname:Actitis macularius" ; Times: 2
+	Query: "Passerina amoena" ; Times: 2
+	Query: "mappable:1 scientificname:Columbina passerina" ; Times: 1
+	Query: "Anser anser" ; Times: 1
+	Query: "genus:bubo" ; Times: 2
+	Query: "mappable:1 scientificname:Ardea alba" ; Times: 1
+	Query: "mappable:1 scientificname:Rallus longirostris" ; Times: 1
+	Query: "mappable:1 scientificname:Ixobrychus exilis" ; Times: 1
+	Query: "Rhea americana" ; Times: 1
+	Query: "Sturnus vulgaris" ; Times: 2
+	Query: "mappable:1 scientificname:Podilymbus podiceps" ; Times: 1
+	Query: "ovenbird" ; Times: 1
+	Query: "texas natural history" ; Times: 1
+	Query: "Sayornis saya" ; Times: 1
+	Query: "Corvus brachyrhynchos" ; Times: 1
+	Query: "hawks" ; Times: 1
+	Query: "GAVIA IMMER" ; Times: 4
+	Query: "Branta canadensis" ; Times: 1
+	Query: "phoenicopterus ruber" ; Times: 2
+	Query: "Catharus fuscescens" ; Times: 1
+	Query: "Molothrus oryzivorus" ; Times: 1
+	Query: "Cygnus cygnus" ; Times: 1
+	Query: "Gallus gallus" ; Times: 1
+	Query: "vntype:specimen class:Aves year &gt;= 1750 year &lt;= 1820 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Numenius borealis" ; Times: 1
+	Query: "mappable:1 scientificname:Caracara plancus" ; Times: 1
+	Query: "mappable:1 scientificname:Anous stolidus" ; Times: 1
+	Query: "Buteo platypterus" ; Times: 1
+	Query: "mappable:1 scientificname:Buteo albicaudatus" ; Times: 1
+	Query: "mappable:1 scientificname:Athene cunicularia" ; Times: 2
+	Query: "limosa" ; Times: 1
+	Query: "pandion haliaetus" ; Times: 1
+	Query: "Chaetura pelagica" ; Times: 1
+	Query: "bird son" ; Times: 1
+	Query: "Caracara cheriway" ; Times: 2
+	Query: "Sturnella magna" ; Times: 1
+	Query: "mappable:1 scientificname:Coragyps atratus" ; Times: 1
+	Query: "mappable:1 scientificname:Anhinga anhinga" ; Times: 2
+	Query: "colaptes auratus luteus" ; Times: 1
+	Query: "mappable:1 scientificname:Charadrius wilsonia" ; Times: 1
+	Query: "oporornis tolmiei" ; Times: 1
+	Query: "hasmedia:1 " ; Times: 2
+	Query: "genus:caracara" ; Times: 2
+	Query: "mappable:1 scientificname:Egretta caerulea" ; Times: 2
+	Query: "chas" ; Times: 1
+	Query: "locality:Fort Worth stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Icteria virens" ; Times: 2
+	Query: "Barn Swallow vntype:specimen" ; Times: 1
+	Query: "William Hair" ; Times: 2
+	Query: "Piranga olivacea" ; Times: 1
+	Query: "mappable:1 scientificname:Parabuteo unicinctus" ; Times: 1
+	Query: "Molothrus ater" ; Times: 3
+	Query: "mammals data" ; Times: 1
+	Query: "hasmedia:1" ; Times: 3
+	Query: "Corvus cryptoleucus" ; Times: 1
+	Query: "peregrine" ; Times: 1
+	Query: "Spinus pinus" ; Times: 1
+	Query: "Plectrophenax nivalis" ; Times: 1
+	Query: "mappable:1 scientificname:Chordeiles acutipennis" ; Times: 1
+	Query: "mappable:1 scientificname:Mycteria americana" ; Times: 2
+	Query: "Pheucticus melanocephalus" ; Times: 2
+	Query: "Bombycilla cedrorum" ; Times: 1
+	Query: "Ectopistes migratorius" ; Times: 2
+	Query: "vntype:specimen hasmedia:1" ; Times: 4
+	Query: "Podiceps auritus" ; Times: 1
+	Query: "Quiscalus quiscula" ; Times: 2
+	Query: "yellowstone" ; Times: 1
+	Query: "specificepithet:ruber genus:Phoenicopterus" ; Times: 1
+	Query: "Lark Bunting eggs" ; Times: 1
+	Query: "mappable:1 scientificname:Gallinula galeata" ; Times: 2
+	Query: "genus:Caracara" ; Times: 1
+	Query: "1282" ; Times: 1
+	Query: "vntype:specimen class:Aves recordedby:Dwight" ; Times: 1
+	Query: "Zonotrichia leucophrys" ; Times: 1
+	Query: "Woodpecker" ; Times: 6
+	Query: "Gruber" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 11 (out of 705 download events in this period)
+Total number of records downloaded: 928
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 8
+	Country: United Kingdom ; Times: 1
+	Country: India ; Times: 1
+	Country: Canada ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-12-27 ; Times: 1
+	Date: 2020-12-26 ; Times: 1
+	Date: 2020-12-23 ; Times: 1
+	Date: 2020-12-31 ; Times: 1
+	Date: 2020-12-06 ; Times: 1
+	Date: 2020-12-12 ; Times: 3
+	Date: 2020-12-03 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Picoides specificepithet:arcticus*" ; Times: 1
+	Query: "egg genus:Catharus" ; Times: 1
+	Query: "genus:Anas" ; Times: 1
+	Query: "genus:Picoides specificepithet:arcticus" ; Times: 1
+	Query: "mallard" ; Times: 1
+	Query: "anas platyrhynchos" ; Times: 1
+	Query: "Haematopus bachmani" ; Times: 1
+	Query: "family:anatidae" ; Times: 1
+	Query: "vntype:specimen class:Aves year &gt;= 1750 year &lt;= 1820 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "phoenicopterus ruber" ; Times: 1
+	Query: "Woodpecker" ; Times: 1
+
+
+End of report.
